@@ -7,6 +7,8 @@ from torch.nn.utils.rnn import pack_padded_sequence, pad_packed_sequence
 import babyai.rl
 from babyai.rl.utils.supervised_losses import required_heads
 
+from transformers import BertModel, BertTokenizer
+
 
 # Function from https://github.com/ikostrikov/pytorch-a2c-ppo-acktr/blob/master/model.py
 def initialize_parameters(m):
@@ -45,7 +47,7 @@ class ACModel(nn.Module, babyai.rl.RecurrentACModel):
     def __init__(self, obs_space, action_space,
                  image_dim=128, memory_dim=128, instr_dim=128,
                  use_instr=False, lang_model="gru", use_memory=False, arch="cnn1",
-                 aux_info=None):
+                 bert=False, aux_info=None):
         super().__init__()
 
         # Decide which components are enabled
@@ -54,6 +56,7 @@ class ACModel(nn.Module, babyai.rl.RecurrentACModel):
         self.arch = arch
         self.lang_model = lang_model
         self.aux_info = aux_info
+        self.bert = bert
         self.image_dim = image_dim
         self.memory_dim = memory_dim
         self.instr_dim = instr_dim
@@ -92,6 +95,10 @@ class ACModel(nn.Module, babyai.rl.RecurrentACModel):
         if self.use_instr:
             if self.lang_model in ['gru', 'bigru', 'attgru']:
                 self.word_embedding = nn.Embedding(obs_space["instr"], self.instr_dim)
+                if hasattr(self, 'bert') and self.bert:
+                    self.bert_tokenizer = BertTokenizer.from_pretrained('bert-base-uncased')
+                    self.bert_model = BertModel.from_pretrained('bert-base-uncased')
+                    self.bert_proj = nn.Linear(768, self.instr_dim)
                 if self.lang_model in ['gru', 'bigru', 'attgru']:
                     gru_dim = self.instr_dim
                     if self.lang_model in ['bigru', 'attgru']:
@@ -206,7 +213,7 @@ class ACModel(nn.Module, babyai.rl.RecurrentACModel):
 
     def forward(self, obs, memory, instr_embedding=None):
         if self.use_instr and instr_embedding is None:
-            instr_embedding = self._get_instr_embedding(obs.instr)
+            instr_embedding = self._get_instr_embedding(obs)
         if self.use_instr and self.lang_model == "attgru":
             # outputs: B x L x D
             # memory: B x M
@@ -253,10 +260,20 @@ class ACModel(nn.Module, babyai.rl.RecurrentACModel):
 
         return {'dist': dist, 'value': value, 'memory': memory, 'extra_predictions': extra_predictions}
 
-    def _get_instr_embedding(self, instr):
-        lengths = (instr != 0).sum(1).long()
+    def _get_instr_embedding(self, obs):
+        instr = obs.instr
+
+        if hasattr(self, 'bert') and self.bert:
+            bert_emb = self.bert_model(obs.bert_instr)[0]
+            word_embedding = self.bert_proj(bert_emb)
+            lengths = (obs.bert_instr != 0).sum(1).long()
+        else:
+            word_embedding = self.word_embedding(obs.instr)
+            lengths = (instr != 0).sum(1).long()
+
+
         if self.lang_model == 'gru':
-            out, _ = self.instr_rnn(self.word_embedding(instr))
+            out, _ = self.instr_rnn(word_embedding)
             hidden = out[range(len(lengths)), lengths-1, :]
             return hidden
 
@@ -270,7 +287,7 @@ class ACModel(nn.Module, babyai.rl.RecurrentACModel):
                 for i, v in enumerate(perm_idx):
                     iperm_idx[v.data] = i
 
-                inputs = self.word_embedding(instr)
+                inputs = word_embedding
                 inputs = inputs[perm_idx]
 
                 inputs = pack_padded_sequence(inputs, seq_lengths.data.cpu().numpy(), batch_first=True)
@@ -278,7 +295,7 @@ class ACModel(nn.Module, babyai.rl.RecurrentACModel):
                 outputs, final_states = self.instr_rnn(inputs)
             else:
                 instr = instr[:, 0:lengths[0]]
-                outputs, final_states = self.instr_rnn(self.word_embedding(instr))
+                outputs, final_states = self.instr_rnn(word_embedding)
                 iperm_idx = None
             final_states = final_states.transpose(0, 1).contiguous()
             final_states = final_states.view(final_states.shape[0], -1)

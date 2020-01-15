@@ -91,7 +91,7 @@ class ImitationLearning(object):
                 self.acmodel = ACModel(self.obss_preprocessor.obs_space, action_space,
                                        args.image_dim, args.memory_dim, args.instr_dim,
                                        not self.args.no_instr, self.args.instr_arch,
-                                       not self.args.no_mem, self.args.arch)
+                                       not self.args.no_mem, self.args.arch, self.args.bert)
         self.obss_preprocessor.vocab.save()
         utils.save_model(self.acmodel, args.model)
 
@@ -200,7 +200,7 @@ class ImitationLearning(object):
         memory = torch.zeros([len(batch), self.acmodel.memory_size], device=self.device)
 
         preprocessed_first_obs = self.obss_preprocessor(obss[inds], device=self.device)
-        instr_embedding = self.acmodel._get_instr_embedding(preprocessed_first_obs.instr)
+        instr_embedding = self.acmodel._get_instr_embedding(preprocessed_first_obs)
 
         # Loop terminates when every observation in the flat_batch has been handled
         while True:

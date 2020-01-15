@@ -78,9 +78,13 @@ def generate_demos(n_episodes, valid, seed, shift=0):
     demos_path = utils.get_demos_path(args.demos, args.env, 'agent', valid)
     demos = []
 
+    seeds = []
+    missions = []
+
     checkpoint_time = time.time()
 
     just_crashed = False
+    last_seed = 999999
     while True:
         if len(demos) == n_episodes:
             break
@@ -88,11 +92,14 @@ def generate_demos(n_episodes, valid, seed, shift=0):
         done = False
         if just_crashed:
             logger.info("reset the environment to find a mission that the bot can solve")
-            env.reset()
-        else:
-            env.seed(seed + len(demos))
+        #else:
+        #    env.seed(seed + len(demos))
+        last_seed += 1
+        env.seed(last_seed)
         obs = env.reset()
         agent.on_reset()
+        demo_imgs = []
+        #demo_imgs.append(env.render())
 
         actions = []
         mission = obs["mission"]
@@ -110,10 +117,15 @@ def generate_demos(n_episodes, valid, seed, shift=0):
                 actions.append(action)
                 images.append(obs['image'])
                 directions.append(obs['direction'])
+                #demo_imgs.append(env.render())
 
                 obs = new_obs
             if reward > 0 and (args.filter_steps == 0 or len(images) <= args.filter_steps):
                 demos.append((mission, blosc.pack_array(np.array(images)), directions, actions))
+                seeds.append(last_seed)
+                #demo_imgs.append(env.render())
+                parent = os.path.dirname(demos_path)
+                #np.savez(os.path.join(parent, "imgs_" + str(last_seed)), data=demo_imgs)
                 just_crashed = False
 
             if reward == 0:
@@ -149,6 +161,10 @@ def generate_demos(n_episodes, valid, seed, shift=0):
     # Save demonstrations
     logger.info("Saving demos...")
     utils.save_demos(demos, demos_path)
+    import pickle
+    parent = os.path.dirname(demos_path)
+    with open(os.path.join(parent, "seeds.pkl"), "wb") as fh:
+        pickle.dump(seeds, fh)
     logger.info("{} demos saved".format(len(demos)))
     print_demo_lengths(demos[-100:])
 

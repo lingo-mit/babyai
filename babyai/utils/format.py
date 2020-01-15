@@ -5,6 +5,8 @@ import re
 import torch
 import babyai.rl
 
+from transformers import BertTokenizer
+
 from .. import utils
 
 
@@ -45,6 +47,7 @@ class InstructionsPreprocessor(object):
     def __init__(self, model_name, load_vocab_from=None):
         self.model_name = model_name
         self.vocab = Vocabulary(model_name)
+        self.bert_tokenizer = BertTokenizer.from_pretrained("bert-base-uncased")
 
         path = get_vocab_path(model_name)
         if not os.path.exists(path) and load_vocab_from is not None:
@@ -58,21 +61,29 @@ class InstructionsPreprocessor(object):
 
     def __call__(self, obss, device=None):
         raw_instrs = []
+        raw_bert_instrs = []
         max_instr_len = 0
 
         for obs in obss:
             tokens = re.findall("([a-z]+)", obs["mission"].lower())
             instr = numpy.array([self.vocab[token] for token in tokens])
+            bert_instr = self.bert_tokenizer.encode(obs["mission"], add_special_tokens=True)
             raw_instrs.append(instr)
+            raw_bert_instrs.append(bert_instr)
             max_instr_len = max(len(instr), max_instr_len)
 
         instrs = numpy.zeros((len(obss), max_instr_len))
-
         for i, instr in enumerate(raw_instrs):
             instrs[i, :len(instr)] = instr
-
         instrs = torch.tensor(instrs, device=device, dtype=torch.long)
-        return instrs
+
+        max_bert_len = max(len(b) for b in raw_bert_instrs)
+        bert_instrs = numpy.zeros((len(obss), max_bert_len))
+        for i, instr in enumerate(raw_bert_instrs):
+            bert_instrs[i, :len(instr)] = instr
+        bert_instrs = torch.tensor(bert_instrs, device=device, dtype=torch.long)
+
+        return instrs, bert_instrs
 
 
 class RawImagePreprocessor(object):
@@ -114,7 +125,7 @@ class ObssPreprocessor:
             obs_.image = self.image_preproc(obss, device=device)
 
         if "instr" in self.obs_space.keys():
-            obs_.instr = self.instr_preproc(obss, device=device)
+            obs_.instr, obs_.bert_instr = self.instr_preproc(obss, device=device)
 
         return obs_
 
