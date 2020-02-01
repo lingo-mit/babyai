@@ -37,6 +37,7 @@ parser.add_argument("--multi-episodes", type=int, nargs='*', default=None,
 parser.add_argument("--save-interval", type=int, default=1,
                     help="number of epochs between two saves (default: 1, 0 means no saving)")
 parser.add_argument("--bert", type=bool, default=False, help="train with BERT embeddings of text")
+parser.add_argument("--use-nl-demos", default=None)
 
 
 def main(args):

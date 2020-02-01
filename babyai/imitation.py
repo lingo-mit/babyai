@@ -14,6 +14,7 @@ import multiprocessing
 import os
 import json
 import logging
+import csv
 
 logger = logging.getLogger(__name__)
 
@@ -59,10 +60,12 @@ class ImitationLearning(object):
             self.env = gym.make(self.args.env)
 
             demos_path = utils.get_demos_path(args.demos, args.env, args.demos_origin, valid=False)
-            demos_path_valid = utils.get_demos_path(args.demos, args.env, args.demos_origin, valid=True)
+            #demos_path_valid = utils.get_demos_path(args.demos, args.env, args.demos_origin, valid=True)
+            demos_path_valid = demos_path
 
             logger.info('loading demos')
             self.train_demos = utils.load_demos(demos_path)
+            print(len(self.train_demos))
             logger.info('loaded demos')
             if args.episodes:
                 if args.episodes > len(self.train_demos):
@@ -80,12 +83,27 @@ class ImitationLearning(object):
         self.obss_preprocessor = utils.ObssPreprocessor(args.model, observation_space,
                                                         getattr(self.args, 'pretrained_model', None))
 
+        if args.use_nl_demos:
+            nl = []
+            with open(os.path.join("demos", args.use_nl_demos)) as reader:
+                csvreader = csv.reader(reader)
+                next(reader)
+                for line in csvreader:
+                    nl.append((int(line[27]), line[-1]))
+            nl = sorted(nl)
+
+            for i, (_, cmd) in enumerate(nl):
+                if i >= len(self.train_demos):
+                    break
+                self.train_demos[i] = (cmd,) + self.train_demos[i][1:]
+
         # Define actor-critic model
         self.acmodel = utils.load_model(args.model, raise_not_found=False)
         if self.acmodel is None:
             if getattr(self.args, 'pretrained_model', None):
                 logger.info("Loading pretrained model")
                 self.acmodel = utils.load_model(args.pretrained_model, raise_not_found=True)
+                print("bert = ", self.acmodel.bert)
             else:
                 logger.info('Creating new model')
                 self.acmodel = ACModel(self.obss_preprocessor.obs_space, action_space,
@@ -235,6 +253,8 @@ class ImitationLearning(object):
         accuracy = 0
         total_frames = len(indexes) * self.args.recurrence
         for _ in range(self.args.recurrence):
+            if len(indexes) == 0:
+                break
             obs = obss[indexes]
             preprocessed_obs = self.obss_preprocessor(obs, device=self.device)
             action_step = action_true[indexes]
@@ -257,7 +277,7 @@ class ImitationLearning(object):
 
         final_loss /= self.args.recurrence
 
-        if is_training:
+        if is_training and len(indexes) > 0:
             self.optimizer.zero_grad()
             final_loss.backward()
             self.optimizer.step()

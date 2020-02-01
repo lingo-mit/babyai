@@ -84,7 +84,8 @@ def generate_demos(n_episodes, valid, seed, shift=0):
     checkpoint_time = time.time()
 
     just_crashed = False
-    last_seed = 999999
+    #last_seed = 999999
+    last_seed = 0
     while True:
         if len(demos) == n_episodes:
             break

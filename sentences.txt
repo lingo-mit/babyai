@@ -1,0 +1,2636 @@
+go to a ball
+go to a ball behind you
+go to a ball in front of you
+go to a ball on your left
+go to a ball on your right
+go to a blue ball
+go to a blue box
+go to a blue door
+go to a blue door on your left
+go to a blue key
+go to a box
+go to a box behind you
+go to a box in front of you
+go to a box on your left
+go to a box on your right
+go to a door
+go to a door behind you
+go to a door in front of you
+go to a door on your left
+go to a door on your right
+go to a green ball
+go to a green box
+go to a green door
+go to a green key
+go to a grey ball
+go to a grey box
+go to a grey box on your left
+go to a grey door
+go to a grey door on your left
+go to a grey door on your right
+go to a grey key
+go to a key
+go to a key behind you
+go to a key in front of you
+go to a key on your left
+go to a key on your right
+go to a purple ball
+go to a purple ball on your right
+go to a purple box
+go to a purple door
+go to a purple door on your left
+go to a purple door on your right
+go to a purple key
+go to a purple key on your right
+go to a red ball
+go to a red box
+go to a red door
+go to a red door on your right
+go to a red key
+go to a yellow ball
+go to a yellow box
+go to a yellow box behind you
+go to a yellow door
+go to a yellow door in front of you
+go to a yellow door on your left
+go to a yellow door on your right
+go to a yellow key
+go to the ball
+go to the ball behind you
+go to the ball in front of you
+go to the ball on your left
+go to the ball on your right
+go to the blue ball
+go to the blue ball in front of you
+go to the blue ball on your left
+go to the blue ball on your right
+go to the blue box
+go to the blue box behind you
+go to the blue box on your left
+go to the blue box on your right
+go to the blue door
+go to the blue door behind you
+go to the blue door in front of you
+go to the blue door on your left
+go to the blue door on your right
+go to the blue key
+go to the blue key behind you
+go to the blue key in front of you
+go to the blue key on your left
+go to the blue key on your right
+go to the box behind you
+go to the box in front of you
+go to the box on your left
+go to the box on your right
+go to the door behind you
+go to the door in front of you
+go to the door on your left
+go to the door on your right
+go to the green ball
+go to the green ball behind you
+go to the green ball in front of you
+go to the green ball on your left
+go to the green ball on your right
+go to the green box
+go to the green box behind you
+go to the green box in front of you
+go to the green box on your left
+go to the green box on your right
+go to the green door
+go to the green door behind you
+go to the green door in front of you
+go to the green door on your left
+go to the green door on your right
+go to the green key
+go to the green key behind you
+go to the green key in front of you
+go to the green key on your left
+go to the green key on your right
+go to the grey ball
+go to the grey ball behind you
+go to the grey ball in front of you
+go to the grey ball on your left
+go to the grey ball on your right
+go to the grey box
+go to the grey box behind you
+go to the grey box in front of you
+go to the grey box on your left
+go to the grey box on your right
+go to the grey door
+go to the grey door behind you
+go to the grey door in front of you
+go to the grey door on your left
+go to the grey door on your right
+go to the grey key
+go to the grey key behind you
+go to the grey key in front of you
+go to the grey key on your left
+go to the grey key on your right
+go to the key behind you
+go to the key in front of you
+go to the key on your left
+go to the key on your right
+go to the purple ball
+go to the purple ball behind you
+go to the purple ball in front of you
+go to the purple ball on your left
+go to the purple ball on your right
+go to the purple box
+go to the purple box behind you
+go to the purple box in front of you
+go to the purple box on your left
+go to the purple box on your right
+go to the purple door
+go to the purple door behind you
+go to the purple door in front of you
+go to the purple door on your left
+go to the purple door on your right
+go to the purple key
+go to the purple key behind you
+go to the purple key in front of you
+go to the purple key on your left
+go to the purple key on your right
+go to the red ball
+go to the red ball behind you
+go to the red ball in front of you
+go to the red ball on your left
+go to the red ball on your right
+go to the red box
+go to the red box behind you
+go to the red box in front of you
+go to the red box on your left
+go to the red box on your right
+go to the red door
+go to the red door behind you
+go to the red door in front of you
+go to the red door on your left
+go to the red door on your right
+go to the red key
+go to the red key in front of you
+go to the red key on your left
+go to the yellow ball
+go to the yellow ball behind you
+go to the yellow ball in front of you
+go to the yellow ball on your left
+go to the yellow ball on your right
+go to the yellow box
+go to the yellow box behind you
+go to the yellow box in front of you
+go to the yellow box on your left
+go to the yellow box on your right
+go to the yellow door
+go to the yellow door behind you
+go to the yellow door in front of you
+go to the yellow door on your left
+go to the yellow door on your right
+go to the yellow key
+go to the yellow key behind you
+go to the yellow key in front of you
+go to the yellow key on your left
+go to the yellow key on your right
+open a blue door
+open a blue door behind you
+open a blue door in front of you
+open a blue door on your left
+open a blue door on your right
+open a door
+open a door behind you
+open a door in front of you
+open a door on your left
+open a door on your right
+open a green door
+open a green door behind you
+open a green door in front of you
+open a green door on your left
+open a grey door
+open a grey door behind you
+open a grey door in front of you
+open a grey door on your left
+open a purple door
+open a purple door in front of you
+open a purple door on your left
+open a purple door on your right
+open a red door
+open a red door behind you
+open a red door on your left
+open a red door on your right
+open a yellow door
+open a yellow door in front of you
+open a yellow door on your left
+open a yellow door on your right
+open the blue door
+open the blue door behind you
+open the blue door in front of you
+open the blue door on your left
+open the blue door on your right
+open the door behind you
+open the door in front of you
+open the door on your left
+open the door on your right
+open the green door
+open the green door behind you
+open the green door in front of you
+open the green door on your left
+open the green door on your right
+open the grey door
+open the grey door behind you
+open the grey door in front of you
+open the grey door on your left
+open the grey door on your right
+open the purple door
+open the purple door behind you
+open the purple door in front of you
+open the purple door on your left
+open the purple door on your right
+open the red door
+open the red door behind you
+open the red door in front of you
+open the red door on your left
+open the red door on your right
+open the yellow door
+open the yellow door behind you
+open the yellow door in front of you
+open the yellow door on your left
+open the yellow door on your right
+pick up a ball
+pick up a ball behind you
+pick up a ball in front of you
+pick up a ball on your left
+pick up a ball on your right
+pick up a blue ball
+pick up a blue box
+pick up a blue box in front of you
+pick up a blue key
+pick up a blue key in front of you
+pick up a box
+pick up a box behind you
+pick up a box in front of you
+pick up a box on your left
+pick up a box on your right
+pick up a green ball
+pick up a green box
+pick up a green key
+pick up a grey ball
+pick up a grey ball behind you
+pick up a grey box
+pick up a grey box on your right
+pick up a grey key
+pick up a key
+pick up a key behind you
+pick up a key in front of you
+pick up a key on your left
+pick up a key on your right
+pick up a purple ball
+pick up a purple ball behind you
+pick up a purple box
+pick up a purple box on your right
+pick up a purple key
+pick up a purple key on your left
+pick up a red ball
+pick up a red box
+pick up a red key
+pick up a red key behind you
+pick up a yellow ball
+pick up a yellow box
+pick up a yellow key
+pick up the ball
+pick up the ball behind you
+pick up the ball in front of you
+pick up the ball on your left
+pick up the ball on your right
+pick up the blue ball
+pick up the blue ball behind you
+pick up the blue ball on your left
+pick up the blue ball on your right
+pick up the blue box
+pick up the blue box behind you
+pick up the blue box in front of you
+pick up the blue box on your left
+pick up the blue box on your right
+pick up the blue key
+pick up the blue key behind you
+pick up the blue key in front of you
+pick up the blue key on your left
+pick up the blue key on your right
+pick up the box
+pick up the box behind you
+pick up the box in front of you
+pick up the box on your left
+pick up the box on your right
+pick up the green ball
+pick up the green ball behind you
+pick up the green ball in front of you
+pick up the green ball on your left
+pick up the green ball on your right
+pick up the green box
+pick up the green box behind you
+pick up the green box in front of you
+pick up the green box on your right
+pick up the green key
+pick up the green key behind you
+pick up the green key in front of you
+pick up the green key on your left
+pick up the green key on your right
+pick up the grey ball
+pick up the grey ball behind you
+pick up the grey ball in front of you
+pick up the grey ball on your left
+pick up the grey ball on your right
+pick up the grey box
+pick up the grey box behind you
+pick up the grey box in front of you
+pick up the grey box on your left
+pick up the grey box on your right
+pick up the grey key
+pick up the grey key behind you
+pick up the grey key in front of you
+pick up the grey key on your left
+pick up the grey key on your right
+pick up the key behind you
+pick up the key in front of you
+pick up the key on your left
+pick up the key on your right
+pick up the purple ball
+pick up the purple ball behind you
+pick up the purple ball in front of you
+pick up the purple ball on your left
+pick up the purple ball on your right
+pick up the purple box
+pick up the purple box behind you
+pick up the purple box in front of you
+pick up the purple box on your left
+pick up the purple box on your right
+pick up the purple key
+pick up the purple key behind you
+pick up the purple key in front of you
+pick up the purple key on your left
+pick up the purple key on your right
+pick up the red ball
+pick up the red ball behind you
+pick up the red ball in front of you
+pick up the red ball on your left
+pick up the red ball on your right
+pick up the red box
+pick up the red box behind you
+pick up the red box in front of you
+pick up the red box on your left
+pick up the red box on your right
+pick up the red key
+pick up the red key behind you
+pick up the red key in front of you
+pick up the red key on your left
+pick up the red key on your right
+pick up the yellow ball
+pick up the yellow ball behind you
+pick up the yellow ball in front of you
+pick up the yellow ball on your left
+pick up the yellow ball on your right
+pick up the yellow box
+pick up the yellow box behind you
+pick up the yellow box in front of you
+pick up the yellow box on your left
+pick up the yellow box on your right
+pick up the yellow key
+pick up the yellow key behind you
+pick up the yellow key in front of you
+pick up the yellow key on your left
+pick up the yellow key on your right
+put a ball behind you next to a blue box
+put a ball behind you next to the door on your left
+put a ball behind you next to the red door
+put a ball in front of you next to a red door
+put a ball in front of you next to the purple key
+put a ball next to a blue box
+put a ball next to a blue door
+put a ball next to a blue key
+put a ball next to a box
+put a ball next to a box on your left
+put a ball next to a door
+put a ball next to a door in front of you
+put a ball next to a green box
+put a ball next to a green door
+put a ball next to a green key
+put a ball next to a grey box
+put a ball next to a grey door
+put a ball next to a grey key
+put a ball next to a key
+put a ball next to a key in front of you
+put a ball next to a purple box
+put a ball next to a purple door
+put a ball next to a purple key
+put a ball next to a red box
+put a ball next to a red door
+put a ball next to a red key
+put a ball next to a yellow box
+put a ball next to a yellow door
+put a ball next to a yellow key
+put a ball next to the blue box
+put a ball next to the blue door
+put a ball next to the blue key
+put a ball next to the box on your right
+put a ball next to the door behind you
+put a ball next to the door in front of you
+put a ball next to the door on your right
+put a ball next to the green box
+put a ball next to the green door
+put a ball next to the green door behind you
+put a ball next to the green door in front of you
+put a ball next to the green door on your right
+put a ball next to the green key
+put a ball next to the grey box
+put a ball next to the grey door
+put a ball next to the grey key
+put a ball next to the grey key behind you
+put a ball next to the key
+put a ball next to the key behind you
+put a ball next to the purple box
+put a ball next to the purple door
+put a ball next to the purple door on your right
+put a ball next to the purple key
+put a ball next to the purple key on your right
+put a ball next to the red box
+put a ball next to the red door
+put a ball next to the red key
+put a ball next to the red key behind you
+put a ball next to the yellow box
+put a ball next to the yellow door
+put a ball next to the yellow door behind you
+put a ball next to the yellow key
+put a ball next to the yellow key in front of you
+put a ball on your left next to a box
+put a ball on your left next to the grey key in front of you
+put a ball on your right next to a box
+put a ball on your right next to a door
+put a ball on your right next to a green key
+put a ball on your right next to a grey door
+put a ball on your right next to the green box
+put a ball on your right next to the red box
+put a ball on your right next to the red key
+put a blue ball next to a blue key
+put a blue ball next to a box
+put a blue ball next to a door
+put a blue ball next to a door behind you
+put a blue ball next to a door on your left
+put a blue ball next to a green ball
+put a blue ball next to a green door
+put a blue ball next to a green key
+put a blue ball next to a grey ball
+put a blue ball next to a grey box
+put a blue ball next to a grey door
+put a blue ball next to a grey key
+put a blue ball next to a key
+put a blue ball next to a purple ball
+put a blue ball next to a purple box
+put a blue ball next to a purple door
+put a blue ball next to a purple key
+put a blue ball next to a red box
+put a blue ball next to a red key
+put a blue ball next to a yellow ball
+put a blue ball next to a yellow box
+put a blue ball next to a yellow door
+put a blue ball next to the blue box
+put a blue ball next to the blue door
+put a blue ball next to the blue door in front of you
+put a blue ball next to the green ball
+put a blue ball next to the green door
+put a blue ball next to the green door on your left
+put a blue ball next to the green key
+put a blue ball next to the grey ball
+put a blue ball next to the grey box
+put a blue ball next to the grey door
+put a blue ball next to the grey door on your right
+put a blue ball next to the purple ball
+put a blue ball next to the purple box
+put a blue ball next to the purple door in front of you
+put a blue ball next to the purple door on your left
+put a blue ball next to the red ball
+put a blue ball next to the red box
+put a blue ball next to the red key
+put a blue ball next to the yellow box
+put a blue ball next to the yellow box behind you
+put a blue ball next to the yellow door
+put a blue ball next to the yellow door in front of you
+put a blue ball next to the yellow key
+put a blue ball next to the yellow key behind you
+put a blue box next to a ball
+put a blue box next to a blue door
+put a blue box next to a blue key
+put a blue box next to a door
+put a blue box next to a green ball
+put a blue box next to a green door
+put a blue box next to a green key
+put a blue box next to a grey ball
+put a blue box next to a grey box
+put a blue box next to a grey door
+put a blue box next to a key
+put a blue box next to a purple ball
+put a blue box next to a purple box
+put a blue box next to a purple door
+put a blue box next to a red box
+put a blue box next to a red door
+put a blue box next to a yellow ball
+put a blue box next to a yellow key
+put a blue box next to the blue ball
+put a blue box next to the blue door
+put a blue box next to the blue key
+put a blue box next to the box behind you
+put a blue box next to the door behind you
+put a blue box next to the door on your left
+put a blue box next to the green box
+put a blue box next to the green door
+put a blue box next to the green door behind you
+put a blue box next to the green key
+put a blue box next to the grey ball
+put a blue box next to the grey box
+put a blue box next to the grey door
+put a blue box next to the key on your left
+put a blue box next to the purple ball
+put a blue box next to the purple box
+put a blue box next to the purple door
+put a blue box next to the purple door behind you
+put a blue box next to the purple door on your left
+put a blue box next to the purple key
+put a blue box next to the red ball
+put a blue box next to the red box
+put a blue box next to the red door
+put a blue box next to the red key on your right
+put a blue box next to the yellow ball
+put a blue box next to the yellow ball on your right
+put a blue box next to the yellow door
+put a blue box next to the yellow key on your left
+put a blue key next to a ball
+put a blue key next to a ball on your right
+put a blue key next to a blue box
+put a blue key next to a blue door
+put a blue key next to a box
+put a blue key next to a door
+put a blue key next to a door on your right
+put a blue key next to a green door
+put a blue key next to a green key
+put a blue key next to a grey box
+put a blue key next to a grey door
+put a blue key next to a grey key
+put a blue key next to a purple ball
+put a blue key next to a purple box
+put a blue key next to a purple door
+put a blue key next to a red ball
+put a blue key next to a red door
+put a blue key next to a red door on your left
+put a blue key next to a red key
+put a blue key next to a yellow ball
+put a blue key next to a yellow door
+put a blue key next to the ball in front of you
+put a blue key next to the ball on your right
+put a blue key next to the blue ball
+put a blue key next to the blue box
+put a blue key next to the blue door
+put a blue key next to the box on your left
+put a blue key next to the door behind you
+put a blue key next to the door in front of you
+put a blue key next to the green ball
+put a blue key next to the grey ball
+put a blue key next to the grey box
+put a blue key next to the grey door
+put a blue key next to the grey key
+put a blue key next to the grey key in front of you
+put a blue key next to the purple ball
+put a blue key next to the purple box
+put a blue key next to the purple door
+put a blue key next to the purple door on your right
+put a blue key next to the purple key
+put a blue key next to the red box
+put a blue key next to the red door
+put a blue key next to the yellow box
+put a blue key next to the yellow door
+put a blue key next to the yellow door on your left
+put a blue key next to the yellow door on your right
+put a box behind you next to a key
+put a box behind you next to a red door
+put a box behind you next to the grey ball
+put a box in front of you next to the purple key
+put a box in front of you next to the red box
+put a box next to a ball
+put a box next to a ball in front of you
+put a box next to a blue ball
+put a box next to a blue door
+put a box next to a blue key
+put a box next to a door
+put a box next to a door behind you
+put a box next to a door on your left
+put a box next to a green ball
+put a box next to a green door
+put a box next to a green key
+put a box next to a grey ball
+put a box next to a grey door
+put a box next to a grey key
+put a box next to a key
+put a box next to a key behind you
+put a box next to a key on your left
+put a box next to a key on your right
+put a box next to a purple ball
+put a box next to a purple door
+put a box next to a purple key
+put a box next to a red ball
+put a box next to a red door
+put a box next to a red key
+put a box next to a yellow ball
+put a box next to a yellow door
+put a box next to a yellow key
+put a box next to a yellow key behind you
+put a box next to the ball on your left
+put a box next to the ball on your right
+put a box next to the blue ball
+put a box next to the blue ball in front of you
+put a box next to the blue door
+put a box next to the blue key
+put a box next to the blue key on your left
+put a box next to the blue key on your right
+put a box next to the door behind you
+put a box next to the door on your left
+put a box next to the door on your right
+put a box next to the green ball
+put a box next to the green ball on your right
+put a box next to the green door
+put a box next to the green door behind you
+put a box next to the green door on your right
+put a box next to the green key
+put a box next to the grey ball
+put a box next to the grey door
+put a box next to the grey door on your left
+put a box next to the grey key
+put a box next to the grey key on your left
+put a box next to the key in front of you
+put a box next to the key on your left
+put a box next to the key on your right
+put a box next to the purple ball
+put a box next to the purple door
+put a box next to the purple key
+put a box next to the purple key in front of you
+put a box next to the red ball
+put a box next to the red ball on your left
+put a box next to the red door
+put a box next to the red door behind you
+put a box next to the red door in front of you
+put a box next to the red door on your right
+put a box next to the red key
+put a box next to the red key on your right
+put a box next to the yellow ball
+put a box next to the yellow door
+put a box next to the yellow door behind you
+put a box next to the yellow door on your left
+put a box next to the yellow key
+put a box on your right next to a door behind you
+put a box on your right next to the grey ball
+put a box on your right next to the yellow door in front of you
+put a green ball next to a blue ball
+put a green ball next to a blue door
+put a green ball next to a box
+put a green ball next to a door
+put a green ball next to a green door
+put a green ball next to a grey box
+put a green ball next to a grey key
+put a green ball next to a key
+put a green ball next to a purple door
+put a green ball next to a red box
+put a green ball next to a red door
+put a green ball next to a red key
+put a green ball next to a yellow box
+put a green ball next to a yellow key
+put a green ball next to the blue ball
+put a green ball next to the blue door
+put a green ball next to the blue key
+put a green ball next to the box behind you
+put a green ball next to the door behind you
+put a green ball next to the green door in front of you
+put a green ball next to the green door on your right
+put a green ball next to the green key
+put a green ball next to the grey ball
+put a green ball next to the grey box
+put a green ball next to the key behind you
+put a green ball next to the purple ball
+put a green ball next to the purple box
+put a green ball next to the purple box on your right
+put a green ball next to the purple door
+put a green ball next to the purple key behind you
+put a green ball next to the red ball
+put a green ball next to the red box
+put a green ball next to the red door
+put a green ball next to the red door in front of you
+put a green ball next to the yellow box
+put a green ball next to the yellow door
+put a green ball next to the yellow door behind you
+put a green ball next to the yellow key
+put a green box in front of you next to the red door
+put a green box next to a ball
+put a green box next to a blue ball
+put a green box next to a blue box
+put a green box next to a door
+put a green box next to a door on your left
+put a green box next to a green key
+put a green box next to a grey ball
+put a green box next to a grey door
+put a green box next to a key
+put a green box next to a purple ball
+put a green box next to a purple box
+put a green box next to a purple door
+put a green box next to a purple key
+put a green box next to a red ball
+put a green box next to a red door
+put a green box next to a red key
+put a green box next to a yellow ball
+put a green box next to a yellow door
+put a green box next to a yellow key
+put a green box next to the ball behind you
+put a green box next to the blue ball
+put a green box next to the blue box
+put a green box next to the blue door
+put a green box next to the blue key on your left
+put a green box next to the box in front of you
+put a green box next to the grey ball
+put a green box next to the grey box
+put a green box next to the grey door
+put a green box next to the grey key
+put a green box next to the purple ball
+put a green box next to the purple ball behind you
+put a green box next to the purple ball on your right
+put a green box next to the purple door behind you
+put a green box next to the purple key
+put a green box next to the red door
+put a green box next to the red door in front of you
+put a green box next to the red key
+put a green box next to the yellow ball
+put a green box next to the yellow box
+put a green box next to the yellow key
+put a green key next to a ball
+put a green key next to a blue box
+put a green key next to a blue door
+put a green key next to a blue key
+put a green key next to a box
+put a green key next to a box behind you
+put a green key next to a door
+put a green key next to a green door
+put a green key next to a grey ball
+put a green key next to a grey box
+put a green key next to a grey door
+put a green key next to a purple ball
+put a green key next to a purple key
+put a green key next to a red ball
+put a green key next to a red door
+put a green key next to a red key
+put a green key next to a yellow ball
+put a green key next to a yellow box
+put a green key next to a yellow door
+put a green key next to a yellow key
+put a green key next to the blue ball
+put a green key next to the blue box
+put a green key next to the blue door
+put a green key next to the blue door behind you
+put a green key next to the box behind you
+put a green key next to the door in front of you
+put a green key next to the door on your left
+put a green key next to the green box
+put a green key next to the green door
+put a green key next to the green door behind you
+put a green key next to the grey ball
+put a green key next to the grey box in front of you
+put a green key next to the grey door
+put a green key next to the grey key
+put a green key next to the purple ball
+put a green key next to the purple box
+put a green key next to the purple key
+put a green key next to the purple key on your left
+put a green key next to the red ball
+put a green key next to the red door
+put a green key next to the red door behind you
+put a green key next to the yellow ball
+put a green key next to the yellow box
+put a green key next to the yellow box on your right
+put a green key on your left next to the purple box
+put a grey ball next to a blue ball
+put a grey ball next to a blue door
+put a grey ball next to a box
+put a grey ball next to a box on your right
+put a grey ball next to a door
+put a grey ball next to a green ball
+put a grey ball next to a green box
+put a grey ball next to a green door
+put a grey ball next to a grey box
+put a grey ball next to a grey door
+put a grey ball next to a purple ball
+put a grey ball next to a purple box
+put a grey ball next to a purple door
+put a grey ball next to a purple key
+put a grey ball next to a red ball
+put a grey ball next to a yellow ball
+put a grey ball next to a yellow door
+put a grey ball next to the blue ball
+put a grey ball next to the blue box
+put a grey ball next to the blue box in front of you
+put a grey ball next to the blue door
+put a grey ball next to the blue door behind you
+put a grey ball next to the box on your left
+put a grey ball next to the door behind you
+put a grey ball next to the door in front of you
+put a grey ball next to the door on your right
+put a grey ball next to the green ball
+put a grey ball next to the green ball in front of you
+put a grey ball next to the green box
+put a grey ball next to the green door
+put a grey ball next to the grey door
+put a grey ball next to the grey key
+put a grey ball next to the purple ball
+put a grey ball next to the purple door
+put a grey ball next to the purple key
+put a grey ball next to the red box
+put a grey ball next to the red door
+put a grey ball next to the red door in front of you
+put a grey ball next to the yellow box
+put a grey ball next to the yellow door
+put a grey box next to a ball
+put a grey box next to a blue door
+put a grey box next to a blue key
+put a grey box next to a door
+put a grey box next to a door on your left
+put a grey box next to a green ball
+put a grey box next to a green box
+put a grey box next to a green door
+put a grey box next to a green key
+put a grey box next to a grey ball
+put a grey box next to a grey door
+put a grey box next to a key
+put a grey box next to a purple ball
+put a grey box next to a purple box
+put a grey box next to a purple door
+put a grey box next to a red ball
+put a grey box next to a red box
+put a grey box next to a yellow ball
+put a grey box next to a yellow door
+put a grey box next to the blue ball
+put a grey box next to the blue door in front of you
+put a grey box next to the blue door on your left
+put a grey box next to the blue key
+put a grey box next to the door behind you
+put a grey box next to the green ball
+put a grey box next to the green box
+put a grey box next to the green door
+put a grey box next to the green key
+put a grey box next to the grey ball
+put a grey box next to the grey ball on your right
+put a grey box next to the grey key
+put a grey box next to the key on your right
+put a grey box next to the purple box
+put a grey box next to the purple box behind you
+put a grey box next to the purple door on your right
+put a grey box next to the purple key
+put a grey box next to the red ball
+put a grey box next to the red box
+put a grey box next to the red door
+put a grey box next to the red door on your left
+put a grey box next to the yellow ball
+put a grey box next to the yellow box
+put a grey box next to the yellow door
+put a grey box next to the yellow key
+put a grey key next to a blue ball
+put a grey key next to a blue key
+put a grey key next to a box
+put a grey key next to a door
+put a grey key next to a door behind you
+put a grey key next to a green box
+put a grey key next to a green door
+put a grey key next to a green key
+put a grey key next to a grey box
+put a grey key next to a grey door
+put a grey key next to a purple door
+put a grey key next to a red box
+put a grey key next to a red door
+put a grey key next to a yellow ball
+put a grey key next to a yellow door
+put a grey key next to a yellow key
+put a grey key next to the ball on your left
+put a grey key next to the blue ball
+put a grey key next to the blue box
+put a grey key next to the blue key
+put a grey key next to the door on your left
+put a grey key next to the door on your right
+put a grey key next to the green box
+put a grey key next to the green door
+put a grey key next to the green key
+put a grey key next to the grey ball
+put a grey key next to the grey ball on your left
+put a grey key next to the grey door
+put a grey key next to the purple ball
+put a grey key next to the purple box
+put a grey key next to the purple key on your right
+put a grey key next to the red ball
+put a grey key next to the yellow ball
+put a grey key next to the yellow box
+put a grey key next to the yellow door
+put a grey key next to the yellow door behind you
+put a grey key next to the yellow door on your left
+put a grey key next to the yellow key
+put a key behind you next to a red ball
+put a key behind you next to the blue ball
+put a key in front of you next to the blue door
+put a key in front of you next to the grey key
+put a key next to a ball
+put a key next to a blue ball
+put a key next to a blue box
+put a key next to a blue door
+put a key next to a box
+put a key next to a door
+put a key next to a door behind you
+put a key next to a door on your left
+put a key next to a door on your right
+put a key next to a green ball
+put a key next to a green box
+put a key next to a green door
+put a key next to a grey ball
+put a key next to a grey box
+put a key next to a grey door
+put a key next to a purple ball
+put a key next to a purple box
+put a key next to a purple door
+put a key next to a red ball
+put a key next to a red box
+put a key next to a red door
+put a key next to a yellow ball
+put a key next to a yellow box
+put a key next to a yellow door
+put a key next to the ball on your left
+put a key next to the blue ball
+put a key next to the blue box
+put a key next to the blue door
+put a key next to the blue door on your right
+put a key next to the box in front of you
+put a key next to the door in front of you
+put a key next to the door on your right
+put a key next to the green ball
+put a key next to the green box
+put a key next to the green box behind you
+put a key next to the green door
+put a key next to the green door in front of you
+put a key next to the green door on your left
+put a key next to the green door on your right
+put a key next to the grey ball
+put a key next to the grey box
+put a key next to the grey door
+put a key next to the grey door in front of you
+put a key next to the grey door on your left
+put a key next to the grey door on your right
+put a key next to the purple ball
+put a key next to the purple box
+put a key next to the purple door
+put a key next to the purple door behind you
+put a key next to the purple door in front of you
+put a key next to the red ball
+put a key next to the red box
+put a key next to the red door
+put a key next to the yellow ball
+put a key next to the yellow ball on your left
+put a key next to the yellow box
+put a key next to the yellow door
+put a key next to the yellow door in front of you
+put a key next to the yellow door on your left
+put a key next to the yellow door on your right
+put a key on your left next to a door
+put a key on your left next to a purple ball
+put a key on your left next to the green door
+put a purple ball next to a blue ball
+put a purple ball next to a blue box
+put a purple ball next to a blue door
+put a purple ball next to a box
+put a purple ball next to a door
+put a purple ball next to a green ball
+put a purple ball next to a green box
+put a purple ball next to a green door
+put a purple ball next to a green key
+put a purple ball next to a grey ball
+put a purple ball next to a grey box
+put a purple ball next to a grey door
+put a purple ball next to a key
+put a purple ball next to a key behind you
+put a purple ball next to a purple box
+put a purple ball next to a purple door
+put a purple ball next to a purple key
+put a purple ball next to a red key
+put a purple ball next to a yellow ball
+put a purple ball next to a yellow box
+put a purple ball next to a yellow door
+put a purple ball next to the blue ball
+put a purple ball next to the blue ball behind you
+put a purple ball next to the blue box
+put a purple ball next to the door in front of you
+put a purple ball next to the green ball
+put a purple ball next to the green box
+put a purple ball next to the green door
+put a purple ball next to the green key
+put a purple ball next to the grey box
+put a purple ball next to the grey door
+put a purple ball next to the grey key
+put a purple ball next to the key on your left
+put a purple ball next to the key on your right
+put a purple ball next to the purple door
+put a purple ball next to the purple key
+put a purple ball next to the red ball
+put a purple ball next to the red box
+put a purple ball next to the red door on your left
+put a purple ball next to the red key
+put a purple ball next to the yellow ball
+put a purple ball next to the yellow box
+put a purple ball next to the yellow door
+put a purple box next to a ball
+put a purple box next to a blue ball
+put a purple box next to a blue key
+put a purple box next to a door
+put a purple box next to a door on your right
+put a purple box next to a green ball
+put a purple box next to a green box
+put a purple box next to a green door
+put a purple box next to a green key
+put a purple box next to a grey door
+put a purple box next to a grey key
+put a purple box next to a key
+put a purple box next to a purple ball
+put a purple box next to a purple door
+put a purple box next to a purple key
+put a purple box next to a red door
+put a purple box next to a red key
+put a purple box next to a yellow ball
+put a purple box next to a yellow key
+put a purple box next to the blue ball
+put a purple box next to the blue key
+put a purple box next to the door behind you
+put a purple box next to the green ball
+put a purple box next to the green box
+put a purple box next to the green key
+put a purple box next to the grey ball
+put a purple box next to the grey door
+put a purple box next to the grey door behind you
+put a purple box next to the grey key
+put a purple box next to the key behind you
+put a purple box next to the key on your left
+put a purple box next to the purple ball
+put a purple box next to the purple ball on your left
+put a purple box next to the purple door
+put a purple box next to the purple door in front of you
+put a purple box next to the red ball
+put a purple box next to the red box
+put a purple box next to the red door
+put a purple box next to the red key
+put a purple box next to the yellow box
+put a purple box next to the yellow box in front of you
+put a purple box next to the yellow key
+put a purple key next to a ball
+put a purple key next to a ball behind you
+put a purple key next to a blue ball
+put a purple key next to a blue box
+put a purple key next to a box
+put a purple key next to a door
+put a purple key next to a green box
+put a purple key next to a grey ball
+put a purple key next to a grey door
+put a purple key next to a purple box
+put a purple key next to a purple door
+put a purple key next to a red box
+put a purple key next to a red door
+put a purple key next to a red key
+put a purple key next to a yellow box
+put a purple key next to a yellow door
+put a purple key next to a yellow key
+put a purple key next to the blue box
+put a purple key next to the blue door
+put a purple key next to the blue key
+put a purple key next to the door on your left
+put a purple key next to the green ball
+put a purple key next to the green box
+put a purple key next to the green door
+put a purple key next to the green door on your right
+put a purple key next to the green key
+put a purple key next to the grey ball
+put a purple key next to the grey box
+put a purple key next to the grey box on your left
+put a purple key next to the grey box on your right
+put a purple key next to the grey key
+put a purple key next to the key on your right
+put a purple key next to the purple ball
+put a purple key next to the purple box
+put a purple key next to the purple door
+put a purple key next to the red ball
+put a purple key next to the red box in front of you
+put a purple key next to the red door
+put a purple key next to the red door on your left
+put a purple key next to the yellow ball
+put a purple key next to the yellow door
+put a purple key next to the yellow door on your right
+put a red ball next to a blue ball
+put a red ball next to a blue box
+put a red ball next to a blue door
+put a red ball next to a blue key
+put a red ball next to a box
+put a red ball next to a door
+put a red ball next to a green ball
+put a red ball next to a green box
+put a red ball next to a green door
+put a red ball next to a green key
+put a red ball next to a grey ball
+put a red ball next to a grey door
+put a red ball next to a grey key
+put a red ball next to a key
+put a red ball next to a purple door
+put a red ball next to a red door
+put a red ball next to a red key
+put a red ball next to a yellow box
+put a red ball next to a yellow door
+put a red ball next to a yellow key
+put a red ball next to the blue ball
+put a red ball next to the blue box
+put a red ball next to the blue door
+put a red ball next to the blue door behind you
+put a red ball next to the door behind you
+put a red ball next to the door on your left
+put a red ball next to the door on your right
+put a red ball next to the green ball
+put a red ball next to the green box
+put a red ball next to the green door
+put a red ball next to the green key
+put a red ball next to the grey ball
+put a red ball next to the grey door
+put a red ball next to the purple ball
+put a red ball next to the purple box
+put a red ball next to the purple door
+put a red ball next to the purple door behind you
+put a red ball next to the purple key
+put a red ball next to the red box
+put a red ball next to the red door
+put a red ball next to the red door on your right
+put a red ball next to the red key
+put a red ball next to the yellow ball behind you
+put a red ball next to the yellow door behind you
+put a red ball next to the yellow door on your right
+put a red box next to a ball
+put a red box next to a blue ball
+put a red box next to a blue box
+put a red box next to a blue door
+put a red box next to a blue key
+put a red box next to a box behind you
+put a red box next to a door
+put a red box next to a green ball
+put a red box next to a green box
+put a red box next to a green door
+put a red box next to a grey box
+put a red box next to a grey door
+put a red box next to a grey key
+put a red box next to a purple ball
+put a red box next to a purple box
+put a red box next to a purple door
+put a red box next to a purple key
+put a red box next to a red ball
+put a red box next to a red door
+put a red box next to a yellow ball
+put a red box next to a yellow box
+put a red box next to the blue box
+put a red box next to the blue box behind you
+put a red box next to the blue door
+put a red box next to the blue door in front of you
+put a red box next to the blue key
+put a red box next to the door behind you
+put a red box next to the door on your left
+put a red box next to the green ball
+put a red box next to the green box
+put a red box next to the green door
+put a red box next to the green key
+put a red box next to the grey ball
+put a red box next to the grey box
+put a red box next to the grey door
+put a red box next to the key on your left
+put a red box next to the purple ball
+put a red box next to the purple box
+put a red box next to the purple key
+put a red box next to the red ball
+put a red box next to the red key
+put a red box next to the yellow ball
+put a red box next to the yellow ball in front of you
+put a red box next to the yellow box
+put a red box next to the yellow door
+put a red box next to the yellow door on your left
+put a red key in front of you next to the grey door
+put a red key next to a ball
+put a red key next to a blue ball
+put a red key next to a blue box
+put a red key next to a blue door
+put a red key next to a box
+put a red key next to a door
+put a red key next to a door behind you
+put a red key next to a green ball
+put a red key next to a green box
+put a red key next to a green door
+put a red key next to a green key
+put a red key next to a grey box
+put a red key next to a grey door
+put a red key next to a grey key
+put a red key next to a purple ball
+put a red key next to a purple door
+put a red key next to a purple key
+put a red key next to a red box
+put a red key next to a red door
+put a red key next to a yellow ball
+put a red key next to a yellow door
+put a red key next to the blue ball
+put a red key next to the blue box
+put a red key next to the blue door on your right
+put a red key next to the blue key
+put a red key next to the blue key on your left
+put a red key next to the door on your left
+put a red key next to the green ball
+put a red key next to the green door in front of you
+put a red key next to the grey box
+put a red key next to the grey box on your right
+put a red key next to the grey key
+put a red key next to the key in front of you
+put a red key next to the purple ball
+put a red key next to the purple box
+put a red key next to the purple key
+put a red key next to the red ball
+put a red key next to the red box
+put a red key next to the red box in front of you
+put a red key next to the red door
+put a red key next to the yellow ball
+put a red key next to the yellow box
+put a red key next to the yellow key
+put a yellow ball behind you next to a yellow door
+put a yellow ball next to a blue ball
+put a yellow ball next to a blue door
+put a yellow ball next to a box
+put a yellow ball next to a door
+put a yellow ball next to a door in front of you
+put a yellow ball next to a green ball
+put a yellow ball next to a green door
+put a yellow ball next to a green key
+put a yellow ball next to a grey ball
+put a yellow ball next to a grey box
+put a yellow ball next to a grey door
+put a yellow ball next to a key
+put a yellow ball next to a key on your left
+put a yellow ball next to a purple ball
+put a yellow ball next to a purple box
+put a yellow ball next to a purple door
+put a yellow ball next to a purple key
+put a yellow ball next to a red ball
+put a yellow ball next to a red box
+put a yellow ball next to a red door
+put a yellow ball next to a yellow box
+put a yellow ball next to a yellow door
+put a yellow ball next to the ball in front of you
+put a yellow ball next to the ball on your left
+put a yellow ball next to the blue ball
+put a yellow ball next to the blue box
+put a yellow ball next to the blue door
+put a yellow ball next to the blue door on your left
+put a yellow ball next to the blue key
+put a yellow ball next to the box behind you
+put a yellow ball next to the box on your right
+put a yellow ball next to the door on your left
+put a yellow ball next to the green ball
+put a yellow ball next to the green ball behind you
+put a yellow ball next to the green box
+put a yellow ball next to the green key
+put a yellow ball next to the grey ball behind you
+put a yellow ball next to the grey box
+put a yellow ball next to the grey door in front of you
+put a yellow ball next to the key in front of you
+put a yellow ball next to the purple door
+put a yellow ball next to the red ball
+put a yellow ball next to the red box
+put a yellow ball next to the red box in front of you
+put a yellow ball next to the red door
+put a yellow ball next to the red door behind you
+put a yellow ball next to the red key
+put a yellow ball next to the yellow box
+put a yellow ball next to the yellow door behind you
+put a yellow ball next to the yellow door in front of you
+put a yellow ball next to the yellow key
+put a yellow box next to a ball
+put a yellow box next to a blue ball
+put a yellow box next to a blue door
+put a yellow box next to a door
+put a yellow box next to a green ball
+put a yellow box next to a green box
+put a yellow box next to a green door
+put a yellow box next to a grey ball
+put a yellow box next to a grey door
+put a yellow box next to a grey key
+put a yellow box next to a key
+put a yellow box next to a purple ball
+put a yellow box next to a red ball
+put a yellow box next to a red box
+put a yellow box next to a red door
+put a yellow box next to a yellow key
+put a yellow box next to the blue door
+put a yellow box next to the blue key
+put a yellow box next to the blue key in front of you
+put a yellow box next to the green box
+put a yellow box next to the green door
+put a yellow box next to the grey ball
+put a yellow box next to the grey box
+put a yellow box next to the grey door
+put a yellow box next to the grey door behind you
+put a yellow box next to the grey key
+put a yellow box next to the key on your left
+put a yellow box next to the key on your right
+put a yellow box next to the purple box
+put a yellow box next to the purple door
+put a yellow box next to the purple key
+put a yellow box next to the red box
+put a yellow box next to the red door
+put a yellow box next to the red key
+put a yellow box next to the yellow ball
+put a yellow box next to the yellow door in front of you
+put a yellow box next to the yellow door on your right
+put a yellow box next to the yellow key
+put a yellow box next to the yellow key on your right
+put a yellow key next to a ball
+put a yellow key next to a blue box
+put a yellow key next to a blue door
+put a yellow key next to a blue key
+put a yellow key next to a box
+put a yellow key next to a box on your left
+put a yellow key next to a box on your right
+put a yellow key next to a door
+put a yellow key next to a green box
+put a yellow key next to a green door
+put a yellow key next to a green key
+put a yellow key next to a grey box
+put a yellow key next to a grey door
+put a yellow key next to a grey key
+put a yellow key next to a purple ball
+put a yellow key next to a purple box
+put a yellow key next to a purple door
+put a yellow key next to a purple key
+put a yellow key next to a red door
+put a yellow key next to a red key
+put a yellow key next to a yellow ball
+put a yellow key next to a yellow box
+put a yellow key next to the blue ball
+put a yellow key next to the blue door
+put a yellow key next to the blue key
+put a yellow key next to the box on your left
+put a yellow key next to the door on your left
+put a yellow key next to the green ball
+put a yellow key next to the green box
+put a yellow key next to the green door
+put a yellow key next to the green key
+put a yellow key next to the grey ball
+put a yellow key next to the grey box
+put a yellow key next to the grey door
+put a yellow key next to the grey door on your right
+put a yellow key next to the grey key
+put a yellow key next to the key on your left
+put a yellow key next to the purple ball
+put a yellow key next to the purple door
+put a yellow key next to the purple door behind you
+put a yellow key next to the red ball
+put a yellow key next to the red door
+put a yellow key next to the red key
+put a yellow key next to the yellow ball
+put a yellow key next to the yellow box
+put a yellow key next to the yellow door
+put the ball behind you next to a door on your right
+put the ball behind you next to a grey door
+put the ball behind you next to a red door
+put the ball behind you next to the blue ball
+put the ball behind you next to the door behind you
+put the ball behind you next to the green door on your right
+put the ball behind you next to the purple key
+put the ball behind you next to the red box
+put the ball in front of you next to a key
+put the ball in front of you next to a purple ball
+put the ball in front of you next to the green box
+put the ball in front of you next to the grey key
+put the ball in front of you next to the purple door
+put the ball in front of you next to the red door
+put the ball in front of you next to the yellow box
+put the ball next to a yellow key
+put the ball next to the grey door behind you
+put the ball next to the red door
+put the ball on your left next to a blue door
+put the ball on your left next to a blue key
+put the ball on your left next to a door
+put the ball on your left next to a door on your left
+put the ball on your left next to a grey key
+put the ball on your left next to a key
+put the ball on your left next to a red door
+put the ball on your left next to a yellow box
+put the ball on your left next to a yellow key
+put the ball on your left next to the blue door on your left
+put the ball on your left next to the blue key
+put the ball on your left next to the red ball
+put the ball on your right next to a red door
+put the ball on your right next to a yellow box
+put the ball on your right next to the door on your left
+put the ball on your right next to the grey ball
+put the ball on your right next to the purple key
+put the ball on your right next to the yellow door in front of you
+put the blue ball behind you next to a door
+put the blue ball behind you next to a yellow ball
+put the blue ball behind you next to the blue key
+put the blue ball behind you next to the red door
+put the blue ball behind you next to the yellow ball
+put the blue ball behind you next to the yellow key
+put the blue ball in front of you next to a door
+put the blue ball in front of you next to a green door
+put the blue ball in front of you next to a grey box
+put the blue ball in front of you next to the red door in front of you
+put the blue ball next to a blue door
+put the blue ball next to a blue key
+put the blue ball next to a box
+put the blue ball next to a door
+put the blue ball next to a door on your right
+put the blue ball next to a green ball
+put the blue ball next to a green door
+put the blue ball next to a green key
+put the blue ball next to a grey box
+put the blue ball next to a grey door
+put the blue ball next to a grey key
+put the blue ball next to a key
+put the blue ball next to a purple box
+put the blue ball next to a purple door
+put the blue ball next to a red ball
+put the blue ball next to a red key
+put the blue ball next to a yellow ball
+put the blue ball next to a yellow box
+put the blue ball next to a yellow door
+put the blue ball next to the blue box
+put the blue ball next to the blue door on your right
+put the blue ball next to the blue key
+put the blue ball next to the box behind you
+put the blue ball next to the door in front of you
+put the blue ball next to the door on your left
+put the blue ball next to the door on your right
+put the blue ball next to the green ball
+put the blue ball next to the green box
+put the blue ball next to the green key
+put the blue ball next to the grey ball
+put the blue ball next to the grey door in front of you
+put the blue ball next to the grey key
+put the blue ball next to the purple ball
+put the blue ball next to the purple box
+put the blue ball next to the purple door behind you
+put the blue ball next to the purple key in front of you
+put the blue ball next to the red ball
+put the blue ball next to the red box
+put the blue ball next to the red door
+put the blue ball next to the red key
+put the blue ball next to the red key on your right
+put the blue ball next to the yellow ball
+put the blue ball next to the yellow ball on your right
+put the blue ball next to the yellow door
+put the blue ball next to the yellow key
+put the blue ball on your left next to a blue door
+put the blue ball on your left next to a purple door
+put the blue ball on your left next to the box behind you
+put the blue ball on your left next to the purple ball
+put the blue ball on your right next to a green door
+put the blue ball on your right next to the green box on your left
+put the blue box behind you next to a key
+put the blue box behind you next to a red door
+put the blue box next to a ball
+put the blue box next to a ball in front of you
+put the blue box next to a blue ball
+put the blue box next to a blue door
+put the blue box next to a box in front of you
+put the blue box next to a door
+put the blue box next to a door in front of you
+put the blue box next to a green box
+put the blue box next to a green door
+put the blue box next to a grey box
+put the blue box next to a grey door
+put the blue box next to a grey key
+put the blue box next to a key
+put the blue box next to a purple ball
+put the blue box next to a purple door
+put the blue box next to a red ball
+put the blue box next to a red box
+put the blue box next to a red door
+put the blue box next to a red key
+put the blue box next to a yellow box
+put the blue box next to a yellow door
+put the blue box next to a yellow key
+put the blue box next to the blue ball in front of you
+put the blue box next to the blue door
+put the blue box next to the blue key
+put the blue box next to the door in front of you
+put the blue box next to the green ball
+put the blue box next to the green door behind you
+put the blue box next to the green key
+put the blue box next to the grey ball
+put the blue box next to the grey box
+put the blue box next to the grey box behind you
+put the blue box next to the grey box in front of you
+put the blue box next to the grey door
+put the blue box next to the grey door on your left
+put the blue box next to the key in front of you
+put the blue box next to the purple box
+put the blue box next to the purple door
+put the blue box next to the purple key
+put the blue box next to the red ball
+put the blue box next to the red box
+put the blue box next to the red door
+put the blue box next to the red door behind you
+put the blue box next to the red door in front of you
+put the blue box next to the red key
+put the blue box next to the yellow ball
+put the blue box next to the yellow box
+put the blue box next to the yellow door
+put the blue box next to the yellow door on your left
+put the blue box next to the yellow key
+put the blue box on your left next to a grey ball
+put the blue box on your left next to a grey door
+put the blue box on your left next to the purple ball on your left
+put the blue box on your left next to the red box
+put the blue box on your right next to a ball
+put the blue key behind you next to a ball
+put the blue key behind you next to the purple door
+put the blue key in front of you next to a ball
+put the blue key in front of you next to a green door
+put the blue key in front of you next to the door on your right
+put the blue key in front of you next to the grey box
+put the blue key in front of you next to the purple key
+put the blue key next to a ball
+put the blue key next to a blue ball
+put the blue key next to a blue door
+put the blue key next to a box
+put the blue key next to a box on your right
+put the blue key next to a door
+put the blue key next to a green ball
+put the blue key next to a green box
+put the blue key next to a green door
+put the blue key next to a grey box
+put the blue key next to a grey door
+put the blue key next to a grey key
+put the blue key next to a purple box
+put the blue key next to a purple key
+put the blue key next to a red ball
+put the blue key next to a red box
+put the blue key next to a red door
+put the blue key next to a yellow ball
+put the blue key next to a yellow box
+put the blue key next to a yellow door
+put the blue key next to a yellow key
+put the blue key next to the ball behind you
+put the blue key next to the blue ball
+put the blue key next to the blue box
+put the blue key next to the blue door
+put the blue key next to the door behind you
+put the blue key next to the door on your left
+put the blue key next to the green ball
+put the blue key next to the green ball in front of you
+put the blue key next to the green door
+put the blue key next to the green key
+put the blue key next to the green key in front of you
+put the blue key next to the grey ball
+put the blue key next to the grey box
+put the blue key next to the grey door
+put the blue key next to the purple box
+put the blue key next to the purple key
+put the blue key next to the red ball
+put the blue key next to the red box
+put the blue key next to the red door behind you
+put the blue key next to the red key
+put the blue key next to the yellow ball
+put the blue key next to the yellow box
+put the blue key next to the yellow door behind you
+put the blue key next to the yellow door on your left
+put the blue key next to the yellow key
+put the blue key next to the yellow key on your right
+put the blue key on your left next to a green door
+put the blue key on your left next to a red key
+put the blue key on your left next to the purple key in front of you
+put the blue key on your left next to the red box
+put the box behind you next to a ball
+put the box behind you next to a blue box
+put the box behind you next to a blue door
+put the box behind you next to a key
+put the box behind you next to the blue door
+put the box behind you next to the box in front of you
+put the box behind you next to the door on your left
+put the box behind you next to the green ball
+put the box behind you next to the purple key
+put the box in front of you next to a blue ball
+put the box in front of you next to a blue door
+put the box in front of you next to a blue key
+put the box in front of you next to a key
+put the box in front of you next to the blue box
+put the box in front of you next to the blue door on your left
+put the box in front of you next to the blue door on your right
+put the box in front of you next to the green door
+put the box in front of you next to the grey door
+put the box in front of you next to the grey key
+put the box in front of you next to the purple ball
+put the box in front of you next to the purple key
+put the box in front of you next to the red box
+put the box on your left next to a ball
+put the box on your left next to a green ball
+put the box on your left next to a green box
+put the box on your left next to a green door
+put the box on your left next to a grey door
+put the box on your left next to a purple box
+put the box on your left next to a red ball
+put the box on your left next to a yellow box
+put the box on your left next to a yellow door
+put the box on your left next to the green box
+put the box on your left next to the green key
+put the box on your left next to the red ball
+put the box on your left next to the red box
+put the box on your left next to the yellow key
+put the box on your right next to a green box
+put the box on your right next to a grey door
+put the box on your right next to a key
+put the box on your right next to a purple door
+put the box on your right next to a purple key
+put the box on your right next to the blue door behind you
+put the box on your right next to the grey key
+put the box on your right next to the red ball
+put the box on your right next to the red door
+put the box on your right next to the red key
+put the green ball behind you next to a yellow door
+put the green ball behind you next to the grey box
+put the green ball behind you next to the grey door on your right
+put the green ball in front of you next to a box
+put the green ball in front of you next to a door on your right
+put the green ball in front of you next to a red box
+put the green ball in front of you next to the door on your left
+put the green ball in front of you next to the grey ball on your right
+put the green ball in front of you next to the red door
+put the green ball next to a blue ball
+put the green ball next to a blue door
+put the green ball next to a blue key
+put the green ball next to a box
+put the green ball next to a door
+put the green ball next to a door in front of you
+put the green ball next to a green door
+put the green ball next to a green key
+put the green ball next to a grey ball
+put the green ball next to a grey box
+put the green ball next to a grey door
+put the green ball next to a grey key
+put the green ball next to a key
+put the green ball next to a key on your right
+put the green ball next to a purple ball
+put the green ball next to a purple box
+put the green ball next to a purple door
+put the green ball next to a red ball
+put the green ball next to a red door
+put the green ball next to a yellow ball
+put the green ball next to a yellow door
+put the green ball next to the blue ball
+put the green ball next to the blue ball on your left
+put the green ball next to the blue box
+put the green ball next to the blue door
+put the green ball next to the blue door in front of you
+put the green ball next to the door behind you
+put the green ball next to the door in front of you
+put the green ball next to the door on your right
+put the green ball next to the green box
+put the green ball next to the green box in front of you
+put the green ball next to the green door
+put the green ball next to the green door on your right
+put the green ball next to the green key
+put the green ball next to the grey ball
+put the green ball next to the grey box
+put the green ball next to the grey door
+put the green ball next to the grey key
+put the green ball next to the grey key on your right
+put the green ball next to the purple ball
+put the green ball next to the purple box
+put the green ball next to the red ball
+put the green ball next to the red box
+put the green ball next to the red door in front of you
+put the green ball next to the red door on your right
+put the green ball next to the red key
+put the green ball next to the yellow ball
+put the green ball next to the yellow box
+put the green ball next to the yellow box behind you
+put the green ball next to the yellow box on your left
+put the green ball next to the yellow door
+put the green ball next to the yellow key
+put the green ball on your left next to a blue door
+put the green ball on your left next to a door
+put the green ball on your left next to the door in front of you
+put the green ball on your left next to the green key
+put the green ball on your left next to the yellow key
+put the green ball on your right next to a green door
+put the green ball on your right next to a purple door
+put the green ball on your right next to a red door
+put the green ball on your right next to the green box
+put the green box behind you next to the green ball
+put the green box in front of you next to a purple ball
+put the green box in front of you next to a yellow key
+put the green box next to a ball
+put the green box next to a blue ball
+put the green box next to a blue box
+put the green box next to a door
+put the green box next to a door behind you
+put the green box next to a green ball
+put the green box next to a green door
+put the green box next to a grey ball
+put the green box next to a grey box
+put the green box next to a grey door
+put the green box next to a key
+put the green box next to a purple box
+put the green box next to a purple door
+put the green box next to a purple key
+put the green box next to a red ball
+put the green box next to a yellow door
+put the green box next to a yellow key
+put the green box next to the ball in front of you
+put the green box next to the blue ball
+put the green box next to the blue box
+put the green box next to the blue box behind you
+put the green box next to the blue door
+put the green box next to the blue key
+put the green box next to the blue key on your right
+put the green box next to the door behind you
+put the green box next to the door in front of you
+put the green box next to the door on your left
+put the green box next to the door on your right
+put the green box next to the green ball
+put the green box next to the green door
+put the green box next to the green key
+put the green box next to the grey ball
+put the green box next to the grey box
+put the green box next to the grey door
+put the green box next to the grey key
+put the green box next to the key on your right
+put the green box next to the purple ball
+put the green box next to the purple box
+put the green box next to the purple door on your left
+put the green box next to the purple key
+put the green box next to the red ball
+put the green box next to the red ball on your left
+put the green box next to the red box
+put the green box next to the red door
+put the green box next to the red door on your right
+put the green box next to the red key
+put the green box next to the yellow ball
+put the green box next to the yellow box
+put the green box next to the yellow door
+put the green box next to the yellow door behind you
+put the green box next to the yellow key
+put the green box on your left next to a ball
+put the green box on your left next to a yellow key
+put the green box on your left next to the green ball
+put the green box on your right next to a yellow door
+put the green box on your right next to the green ball on your left
+put the green box on your right next to the grey key
+put the green box on your right next to the yellow door
+put the green key behind you next to a green door
+put the green key in front of you next to a ball
+put the green key in front of you next to the door on your left
+put the green key next to a ball
+put the green key next to a blue door
+put the green key next to a blue key
+put the green key next to a box
+put the green key next to a door
+put the green key next to a green ball
+put the green key next to a green box
+put the green key next to a green door
+put the green key next to a grey ball
+put the green key next to a grey door
+put the green key next to a grey key
+put the green key next to a purple ball
+put the green key next to a purple box
+put the green key next to a purple door
+put the green key next to a red ball
+put the green key next to a red box
+put the green key next to a red door
+put the green key next to a yellow door
+put the green key next to a yellow key
+put the green key next to the ball behind you
+put the green key next to the ball on your right
+put the green key next to the blue ball
+put the green key next to the blue box
+put the green key next to the blue door
+put the green key next to the box in front of you
+put the green key next to the box on your right
+put the green key next to the green ball
+put the green key next to the grey ball
+put the green key next to the grey box
+put the green key next to the purple ball
+put the green key next to the purple box
+put the green key next to the purple door
+put the green key next to the purple door behind you
+put the green key next to the purple key
+put the green key next to the red ball
+put the green key next to the red box
+put the green key next to the red key
+put the green key next to the yellow ball
+put the green key next to the yellow box
+put the green key next to the yellow key
+put the green key on your left next to a grey door
+put the green key on your left next to a grey key
+put the green key on your right next to the green ball
+put the green key on your right next to the red key
+put the green key on your right next to the yellow ball
+put the green key on your right next to the yellow door
+put the grey ball in front of you next to a door behind you
+put the grey ball in front of you next to a yellow box
+put the grey ball in front of you next to the door behind you
+put the grey ball in front of you next to the green ball
+put the grey ball in front of you next to the yellow key
+put the grey ball next to a blue box
+put the grey ball next to a blue door
+put the grey ball next to a blue key
+put the grey ball next to a box
+put the grey ball next to a door
+put the grey ball next to a door behind you
+put the grey ball next to a green ball
+put the grey ball next to a green box
+put the grey ball next to a green door
+put the grey ball next to a grey door
+put the grey ball next to a grey key
+put the grey ball next to a key
+put the grey ball next to a purple ball
+put the grey ball next to a purple box
+put the grey ball next to a purple door
+put the grey ball next to a purple door in front of you
+put the grey ball next to a purple key
+put the grey ball next to a red ball
+put the grey ball next to a red door
+put the grey ball next to a red key
+put the grey ball next to a yellow box
+put the grey ball next to a yellow door
+put the grey ball next to a yellow key
+put the grey ball next to the blue ball
+put the grey ball next to the blue box
+put the grey ball next to the blue door
+put the grey ball next to the door on your right
+put the grey ball next to the green box
+put the grey ball next to the green door
+put the grey ball next to the grey box
+put the grey ball next to the grey door
+put the grey ball next to the grey door in front of you
+put the grey ball next to the grey door on your left
+put the grey ball next to the grey key
+put the grey ball next to the key in front of you
+put the grey ball next to the purple box
+put the grey ball next to the purple door
+put the grey ball next to the purple key
+put the grey ball next to the red box
+put the grey ball next to the red door
+put the grey ball next to the red door behind you
+put the grey ball next to the red door in front of you
+put the grey ball next to the red key
+put the grey ball next to the yellow ball
+put the grey ball next to the yellow door
+put the grey ball next to the yellow key
+put the grey ball on your left next to a grey door
+put the grey ball on your left next to a purple box
+put the grey ball on your left next to the blue ball
+put the grey ball on your left next to the blue door on your left
+put the grey ball on your right next to the box on your right
+put the grey ball on your right next to the grey door
+put the grey ball on your right next to the red box
+put the grey box behind you next to a blue door
+put the grey box behind you next to a purple door
+put the grey box behind you next to the blue key
+put the grey box behind you next to the yellow box
+put the grey box in front of you next to a purple box
+put the grey box in front of you next to a purple door
+put the grey box in front of you next to a yellow key
+put the grey box next to a ball
+put the grey box next to a ball on your left
+put the grey box next to a blue ball
+put the grey box next to a blue box
+put the grey box next to a blue key
+put the grey box next to a door
+put the grey box next to a door on your left
+put the grey box next to a green ball
+put the grey box next to a green box
+put the grey box next to a green door
+put the grey box next to a green key
+put the grey box next to a grey ball
+put the grey box next to a grey door
+put the grey box next to a grey key
+put the grey box next to a key
+put the grey box next to a purple ball
+put the grey box next to a purple box
+put the grey box next to a red ball
+put the grey box next to a red box
+put the grey box next to a red door
+put the grey box next to a yellow box
+put the grey box next to a yellow door
+put the grey box next to a yellow key
+put the grey box next to the ball behind you
+put the grey box next to the ball on your right
+put the grey box next to the blue ball
+put the grey box next to the blue door
+put the grey box next to the blue key
+put the grey box next to the door in front of you
+put the grey box next to the door on your left
+put the grey box next to the green ball
+put the grey box next to the green box
+put the grey box next to the green box in front of you
+put the grey box next to the green door in front of you
+put the grey box next to the green door on your right
+put the grey box next to the green key
+put the grey box next to the grey ball
+put the grey box next to the grey door on your left
+put the grey box next to the grey key
+put the grey box next to the key behind you
+put the grey box next to the key on your right
+put the grey box next to the purple ball
+put the grey box next to the purple box
+put the grey box next to the purple key
+put the grey box next to the red ball
+put the grey box next to the red box behind you
+put the grey box next to the red door
+put the grey box next to the red key
+put the grey box next to the red key in front of you
+put the grey box next to the yellow ball
+put the grey box next to the yellow ball on your right
+put the grey box next to the yellow box
+put the grey box next to the yellow door
+put the grey box next to the yellow door behind you
+put the grey box next to the yellow key
+put the grey box on your left next to a door
+put the grey box on your left next to a purple key
+put the grey box on your left next to the yellow key
+put the grey box on your right next to the blue ball
+put the grey key behind you next to a green ball
+put the grey key behind you next to the red key
+put the grey key in front of you next to a ball in front of you
+put the grey key in front of you next to a ball on your right
+put the grey key in front of you next to a blue ball
+put the grey key in front of you next to a blue door
+put the grey key in front of you next to a box on your right
+put the grey key in front of you next to the grey ball
+put the grey key in front of you next to the purple door
+put the grey key next to a ball
+put the grey key next to a blue key
+put the grey key next to a box
+put the grey key next to a door
+put the grey key next to a green ball
+put the grey key next to a green box
+put the grey key next to a green door
+put the grey key next to a green key
+put the grey key next to a grey ball
+put the grey key next to a grey box
+put the grey key next to a grey door
+put the grey key next to a key behind you
+put the grey key next to a purple door
+put the grey key next to a purple key
+put the grey key next to a red box
+put the grey key next to a red door
+put the grey key next to a red key
+put the grey key next to a yellow ball
+put the grey key next to a yellow box
+put the grey key next to a yellow door
+put the grey key next to the ball on your right
+put the grey key next to the blue ball
+put the grey key next to the blue box
+put the grey key next to the blue door
+put the grey key next to the blue door in front of you
+put the grey key next to the blue door on your left
+put the grey key next to the blue door on your right
+put the grey key next to the blue key
+put the grey key next to the box in front of you
+put the grey key next to the door behind you
+put the grey key next to the green ball
+put the grey key next to the green box
+put the grey key next to the green door on your left
+put the grey key next to the green key
+put the grey key next to the grey ball
+put the grey key next to the grey door
+put the grey key next to the grey door in front of you
+put the grey key next to the key on your left
+put the grey key next to the purple ball
+put the grey key next to the purple box
+put the grey key next to the purple door
+put the grey key next to the purple door behind you
+put the grey key next to the purple door in front of you
+put the grey key next to the purple key
+put the grey key next to the red ball
+put the grey key next to the red box
+put the grey key next to the red box behind you
+put the grey key next to the red door
+put the grey key next to the red key
+put the grey key next to the yellow door
+put the grey key next to the yellow door in front of you
+put the grey key on your left next to a red door
+put the grey key on your left next to the blue ball
+put the grey key on your left next to the yellow door
+put the grey key on your left next to the yellow key
+put the grey key on your right next to a ball
+put the grey key on your right next to a door
+put the grey key on your right next to a green door
+put the grey key on your right next to the green ball
+put the grey key on your right next to the red door
+put the key behind you next to a ball
+put the key behind you next to a grey door
+put the key behind you next to a purple box
+put the key behind you next to a red ball
+put the key behind you next to a yellow door
+put the key behind you next to the ball behind you
+put the key behind you next to the blue door
+put the key behind you next to the grey door
+put the key behind you next to the purple ball
+put the key behind you next to the purple key
+put the key behind you next to the yellow ball
+put the key in front of you next to a door
+put the key in front of you next to a red ball
+put the key in front of you next to a red box
+put the key in front of you next to a red key
+put the key in front of you next to the green ball
+put the key in front of you next to the grey door
+put the key in front of you next to the grey door on your left
+put the key next to a yellow box
+put the key on your left next to a ball
+put the key on your left next to a blue door
+put the key on your left next to a box
+put the key on your left next to a door
+put the key on your left next to a green key
+put the key on your left next to a purple door
+put the key on your left next to a red box
+put the key on your left next to a red door
+put the key on your left next to a red key
+put the key on your left next to a yellow ball
+put the key on your left next to the blue ball
+put the key on your left next to the green door
+put the key on your left next to the green door behind you
+put the key on your left next to the green key
+put the key on your left next to the grey ball
+put the key on your left next to the grey box
+put the key on your left next to the grey door on your left
+put the key on your left next to the yellow door
+put the key on your right next to a ball
+put the key on your right next to a door
+put the key on your right next to a door on your right
+put the key on your right next to a yellow door
+put the key on your right next to the door on your left
+put the key on your right next to the grey ball
+put the key on your right next to the red door on your right
+put the key on your right next to the red key
+put the purple ball behind you next to the door on your left
+put the purple ball behind you next to the red ball
+put the purple ball in front of you next to a grey ball
+put the purple ball in front of you next to a purple door
+put the purple ball in front of you next to the blue ball
+put the purple ball next to a ball on your left
+put the purple ball next to a blue ball
+put the purple ball next to a blue box
+put the purple ball next to a blue door
+put the purple ball next to a box
+put the purple ball next to a door
+put the purple ball next to a door in front of you
+put the purple ball next to a door on your right
+put the purple ball next to a green ball
+put the purple ball next to a green box
+put the purple ball next to a green key
+put the purple ball next to a grey box
+put the purple ball next to a grey door
+put the purple ball next to a key
+put the purple ball next to a key on your left
+put the purple ball next to a purple box
+put the purple ball next to a purple door
+put the purple ball next to a purple key
+put the purple ball next to a red ball
+put the purple ball next to a red box
+put the purple ball next to a red door
+put the purple ball next to a red key
+put the purple ball next to a yellow ball
+put the purple ball next to a yellow box
+put the purple ball next to a yellow door
+put the purple ball next to a yellow key
+put the purple ball next to the blue ball
+put the purple ball next to the blue box
+put the purple ball next to the blue door
+put the purple ball next to the blue key
+put the purple ball next to the box behind you
+put the purple ball next to the door behind you
+put the purple ball next to the door in front of you
+put the purple ball next to the door on your left
+put the purple ball next to the green ball
+put the purple ball next to the green box
+put the purple ball next to the green box behind you
+put the purple ball next to the green door
+put the purple ball next to the green door behind you
+put the purple ball next to the green key
+put the purple ball next to the grey ball
+put the purple ball next to the grey door
+put the purple ball next to the grey key
+put the purple ball next to the grey key on your left
+put the purple ball next to the purple box
+put the purple ball next to the purple door on your right
+put the purple ball next to the purple key
+put the purple ball next to the red ball
+put the purple ball next to the red ball on your left
+put the purple ball next to the red box
+put the purple ball next to the red door on your right
+put the purple ball next to the red key
+put the purple ball next to the red key on your right
+put the purple ball next to the yellow ball
+put the purple ball next to the yellow box
+put the purple ball next to the yellow door in front of you
+put the purple ball next to the yellow door on your left
+put the purple ball next to the yellow key
+put the purple ball on your left next to a key
+put the purple ball on your left next to the grey door
+put the purple ball on your left next to the yellow box
+put the purple ball on your right next to a yellow door in front of you
+put the purple ball on your right next to the blue door
+put the purple ball on your right next to the red box
+put the purple box behind you next to a key
+put the purple box behind you next to the grey key
+put the purple box in front of you next to a green door
+put the purple box in front of you next to a key
+put the purple box in front of you next to a red door
+put the purple box in front of you next to a yellow ball
+put the purple box in front of you next to the purple door
+put the purple box in front of you next to the purple door behind you
+put the purple box next to a ball
+put the purple box next to a blue box
+put the purple box next to a blue door
+put the purple box next to a blue key
+put the purple box next to a door
+put the purple box next to a door on your left
+put the purple box next to a green ball
+put the purple box next to a green door
+put the purple box next to a green key
+put the purple box next to a grey box
+put the purple box next to a grey door
+put the purple box next to a key
+put the purple box next to a purple ball
+put the purple box next to a purple door
+put the purple box next to a red ball
+put the purple box next to a red box
+put the purple box next to a red door
+put the purple box next to a yellow ball
+put the purple box next to a yellow door
+put the purple box next to a yellow key
+put the purple box next to the blue ball
+put the purple box next to the blue box
+put the purple box next to the blue door
+put the purple box next to the blue key
+put the purple box next to the box on your left
+put the purple box next to the green ball
+put the purple box next to the green box
+put the purple box next to the green box in front of you
+put the purple box next to the green box on your right
+put the purple box next to the green door
+put the purple box next to the green key
+put the purple box next to the grey box
+put the purple box next to the grey door on your left
+put the purple box next to the grey key
+put the purple box next to the key on your right
+put the purple box next to the purple ball
+put the purple box next to the purple ball on your left
+put the purple box next to the purple door
+put the purple box next to the purple door in front of you
+put the purple box next to the purple key
+put the purple box next to the purple key on your right
+put the purple box next to the red ball on your left
+put the purple box next to the red door
+put the purple box next to the red key
+put the purple box next to the yellow ball
+put the purple box next to the yellow box
+put the purple box next to the yellow door
+put the purple box on your left next to a yellow ball
+put the purple box on your right next to a key
+put the purple box on your right next to a red door
+put the purple box on your right next to the blue box
+put the purple key behind you next to a ball
+put the purple key behind you next to a blue door
+put the purple key in front of you next to a blue door
+put the purple key next to a ball
+put the purple key next to a blue ball
+put the purple key next to a blue box
+put the purple key next to a box
+put the purple key next to a door
+put the purple key next to a green ball
+put the purple key next to a green box
+put the purple key next to a green door
+put the purple key next to a green key
+put the purple key next to a grey ball
+put the purple key next to a grey box
+put the purple key next to a grey door
+put the purple key next to a grey key
+put the purple key next to a purple ball
+put the purple key next to a purple box
+put the purple key next to a purple door
+put the purple key next to a red box
+put the purple key next to a red door
+put the purple key next to a red key
+put the purple key next to a yellow ball
+put the purple key next to a yellow box
+put the purple key next to a yellow door
+put the purple key next to a yellow key
+put the purple key next to the blue ball
+put the purple key next to the blue box
+put the purple key next to the blue key
+put the purple key next to the box behind you
+put the purple key next to the door on your left
+put the purple key next to the green ball
+put the purple key next to the green door
+put the purple key next to the green key
+put the purple key next to the grey ball
+put the purple key next to the grey box
+put the purple key next to the grey door
+put the purple key next to the grey key
+put the purple key next to the key in front of you
+put the purple key next to the purple ball
+put the purple key next to the purple box
+put the purple key next to the purple box on your right
+put the purple key next to the purple door in front of you
+put the purple key next to the purple door on your left
+put the purple key next to the red ball
+put the purple key next to the red ball behind you
+put the purple key next to the red box on your left
+put the purple key next to the red door
+put the purple key next to the red door on your left
+put the purple key next to the red door on your right
+put the purple key next to the yellow ball
+put the purple key next to the yellow box
+put the purple key next to the yellow door
+put the purple key next to the yellow key
+put the purple key on your left next to a purple ball
+put the purple key on your right next to a box
+put the purple key on your right next to a red box
+put the purple key on your right next to a red key
+put the purple key on your right next to the red ball on your left
+put the red ball behind you next to a box
+put the red ball behind you next to a green box
+put the red ball behind you next to the blue door
+put the red ball behind you next to the door on your left
+put the red ball behind you next to the purple ball
+put the red ball in front of you next to a key
+put the red ball next to a blue ball
+put the red ball next to a blue box
+put the red ball next to a blue door
+put the red ball next to a box
+put the red ball next to a door
+put the red ball next to a door in front of you
+put the red ball next to a door on your left
+put the red ball next to a green ball
+put the red ball next to a green box
+put the red ball next to a green door
+put the red ball next to a green key
+put the red ball next to a grey ball
+put the red ball next to a grey box
+put the red ball next to a grey door
+put the red ball next to a grey key
+put the red ball next to a key
+put the red ball next to a purple ball
+put the red ball next to a purple box
+put the red ball next to a purple door
+put the red ball next to a purple key
+put the red ball next to a red box
+put the red ball next to a red door
+put the red ball next to a red key
+put the red ball next to a yellow ball
+put the red ball next to a yellow door
+put the red ball next to a yellow door behind you
+put the red ball next to a yellow key
+put the red ball next to the ball on your left
+put the red ball next to the blue ball
+put the red ball next to the blue ball on your right
+put the red ball next to the blue box
+put the red ball next to the blue door
+put the red ball next to the blue door on your right
+put the red ball next to the blue key
+put the red ball next to the door on your left
+put the red ball next to the door on your right
+put the red ball next to the green ball
+put the red ball next to the green box
+put the red ball next to the green door
+put the red ball next to the green door on your left
+put the red ball next to the grey ball
+put the red ball next to the grey box
+put the red ball next to the grey door
+put the red ball next to the grey door in front of you
+put the red ball next to the grey door on your right
+put the red ball next to the grey key
+put the red ball next to the key on your left
+put the red ball next to the purple ball
+put the red ball next to the purple door on your left
+put the red ball next to the red box
+put the red ball next to the red door
+put the red ball next to the red key
+put the red ball next to the yellow ball
+put the red ball next to the yellow ball on your left
+put the red ball next to the yellow box
+put the red ball next to the yellow key
+put the red ball on your left next to a blue key
+put the red ball on your left next to the green key
+put the red ball on your left next to the purple key
+put the red ball on your left next to the yellow ball
+put the red ball on your right next to a yellow ball
+put the red ball on your right next to a yellow key
+put the red ball on your right next to the yellow door behind you
+put the red box behind you next to a door on your left
+put the red box behind you next to a purple box
+put the red box behind you next to the blue door
+put the red box in front of you next to the red key
+put the red box in front of you next to the yellow ball
+put the red box next to a ball
+put the red box next to a ball behind you
+put the red box next to a blue box
+put the red box next to a blue door
+put the red box next to a door
+put the red box next to a green ball
+put the red box next to a green box
+put the red box next to a green door
+put the red box next to a grey ball
+put the red box next to a grey door
+put the red box next to a grey door behind you
+put the red box next to a grey key
+put the red box next to a key
+put the red box next to a purple ball
+put the red box next to a purple box
+put the red box next to a purple door
+put the red box next to a red ball
+put the red box next to a red door
+put the red box next to a red key
+put the red box next to a yellow ball
+put the red box next to a yellow box
+put the red box next to a yellow door
+put the red box next to a yellow door on your left
+put the red box next to a yellow key
+put the red box next to the blue ball
+put the red box next to the blue box
+put the red box next to the blue door in front of you
+put the red box next to the blue key
+put the red box next to the door on your right
+put the red box next to the green ball
+put the red box next to the green box
+put the red box next to the green key
+put the red box next to the grey box
+put the red box next to the grey door
+put the red box next to the grey key
+put the red box next to the purple ball
+put the red box next to the purple box
+put the red box next to the purple door
+put the red box next to the purple door in front of you
+put the red box next to the purple key
+put the red box next to the red ball
+put the red box next to the red key
+put the red box next to the yellow ball
+put the red box next to the yellow ball in front of you
+put the red box next to the yellow ball on your right
+put the red box next to the yellow door
+put the red box next to the yellow door on your right
+put the red box next to the yellow key
+put the red box on your left next to a key
+put the red box on your left next to a purple box
+put the red box on your left next to a red ball
+put the red box on your left next to a yellow key
+put the red box on your right next to a door on your right
+put the red box on your right next to the blue door
+put the red box on your right next to the blue key
+put the red key behind you next to a green door
+put the red key behind you next to a purple door
+put the red key in front of you next to the green ball
+put the red key next to a ball
+put the red key next to a blue ball
+put the red key next to a blue box
+put the red key next to a blue door
+put the red key next to a box
+put the red key next to a door
+put the red key next to a green box
+put the red key next to a green door
+put the red key next to a green key
+put the red key next to a grey ball
+put the red key next to a grey door
+put the red key next to a grey key
+put the red key next to a key on your right
+put the red key next to a purple box
+put the red key next to a purple door
+put the red key next to a red ball
+put the red key next to a red box
+put the red key next to a red door
+put the red key next to a yellow ball
+put the red key next to a yellow door
+put the red key next to a yellow key
+put the red key next to the ball on your left
+put the red key next to the blue ball
+put the red key next to the blue box
+put the red key next to the blue door
+put the red key next to the blue key
+put the red key next to the box in front of you
+put the red key next to the box on your right
+put the red key next to the door behind you
+put the red key next to the door on your left
+put the red key next to the door on your right
+put the red key next to the green box
+put the red key next to the green door on your left
+put the red key next to the grey ball
+put the red key next to the grey box
+put the red key next to the grey box on your left
+put the red key next to the grey door on your left
+put the red key next to the key behind you
+put the red key next to the key in front of you
+put the red key next to the purple box
+put the red key next to the purple door
+put the red key next to the purple door on your left
+put the red key next to the purple key
+put the red key next to the red ball
+put the red key next to the red door
+put the red key next to the yellow ball
+put the red key next to the yellow ball behind you
+put the red key next to the yellow box
+put the red key next to the yellow box in front of you
+put the red key next to the yellow door
+put the red key next to the yellow key
+put the red key on your left next to a box
+put the red key on your right next to the purple door
+put the red key on your right next to the purple key on your right
+put the red key on your right next to the red box
+put the red key on your right next to the yellow box behind you
+put the yellow ball behind you next to a box
+put the yellow ball behind you next to a door
+put the yellow ball behind you next to a red key
+put the yellow ball behind you next to the purple key
+put the yellow ball in front of you next to a green ball
+put the yellow ball in front of you next to a purple door
+put the yellow ball in front of you next to the blue box on your right
+put the yellow ball in front of you next to the door in front of you
+put the yellow ball next to a blue ball
+put the yellow ball next to a blue box
+put the yellow ball next to a blue door
+put the yellow ball next to a blue key
+put the yellow ball next to a box
+put the yellow ball next to a box on your left
+put the yellow ball next to a door
+put the yellow ball next to a door in front of you
+put the yellow ball next to a green key
+put the yellow ball next to a grey ball
+put the yellow ball next to a grey door
+put the yellow ball next to a key
+put the yellow ball next to a purple box
+put the yellow ball next to a purple door
+put the yellow ball next to a purple key
+put the yellow ball next to a red box
+put the yellow ball next to a red door
+put the yellow ball next to a red key
+put the yellow ball next to a yellow box
+put the yellow ball next to a yellow door
+put the yellow ball next to a yellow key
+put the yellow ball next to the blue ball
+put the yellow ball next to the blue box
+put the yellow ball next to the blue door on your right
+put the yellow ball next to the blue key
+put the yellow ball next to the box in front of you
+put the yellow ball next to the box on your right
+put the yellow ball next to the door behind you
+put the yellow ball next to the door in front of you
+put the yellow ball next to the door on your left
+put the yellow ball next to the green ball
+put the yellow ball next to the green box
+put the yellow ball next to the green door
+put the yellow ball next to the grey ball
+put the yellow ball next to the grey box
+put the yellow ball next to the grey door
+put the yellow ball next to the grey door on your right
+put the yellow ball next to the grey key
+put the yellow ball next to the key in front of you
+put the yellow ball next to the purple box
+put the yellow ball next to the purple door
+put the yellow ball next to the purple door on your left
+put the yellow ball next to the purple key
+put the yellow ball next to the red ball
+put the yellow ball next to the red box
+put the yellow ball next to the red box on your right
+put the yellow ball next to the red door in front of you
+put the yellow ball next to the red key
+put the yellow ball next to the yellow box on your left
+put the yellow ball next to the yellow door
+put the yellow ball next to the yellow door on your left
+put the yellow ball next to the yellow key
+put the yellow ball on your left next to a green box
+put the yellow ball on your left next to the blue box
+put the yellow ball on your left next to the grey box
+put the yellow ball on your left next to the grey door
+put the yellow ball on your left next to the yellow box
+put the yellow ball on your right next to a door
+put the yellow ball on your right next to a purple door
+put the yellow ball on your right next to the grey door
+put the yellow ball on your right next to the red box
+put the yellow ball on your right next to the yellow box
+put the yellow box behind you next to a grey ball
+put the yellow box behind you next to a red ball
+put the yellow box behind you next to the grey key on your left
+put the yellow box in front of you next to the green door
+put the yellow box next to a ball
+put the yellow box next to a blue ball
+put the yellow box next to a blue box
+put the yellow box next to a blue door
+put the yellow box next to a blue key
+put the yellow box next to a door
+put the yellow box next to a door on your left
+put the yellow box next to a green ball
+put the yellow box next to a green box
+put the yellow box next to a green door
+put the yellow box next to a green key
+put the yellow box next to a grey ball
+put the yellow box next to a grey box
+put the yellow box next to a grey door
+put the yellow box next to a key
+put the yellow box next to a purple ball
+put the yellow box next to a purple door
+put the yellow box next to a purple key
+put the yellow box next to a red ball
+put the yellow box next to a red box
+put the yellow box next to a red door
+put the yellow box next to a yellow ball
+put the yellow box next to a yellow door
+put the yellow box next to a yellow key
+put the yellow box next to the blue ball
+put the yellow box next to the blue door
+put the yellow box next to the blue key
+put the yellow box next to the box behind you
+put the yellow box next to the box on your left
+put the yellow box next to the door behind you
+put the yellow box next to the door on your right
+put the yellow box next to the green ball
+put the yellow box next to the green box
+put the yellow box next to the green door
+put the yellow box next to the green door on your right
+put the yellow box next to the grey ball
+put the yellow box next to the grey box
+put the yellow box next to the grey door
+put the yellow box next to the grey key
+put the yellow box next to the key on your left
+put the yellow box next to the purple ball
+put the yellow box next to the purple ball behind you
+put the yellow box next to the purple door
+put the yellow box next to the purple door in front of you
+put the yellow box next to the purple key
+put the yellow box next to the red box
+put the yellow box next to the red door
+put the yellow box next to the red door in front of you
+put the yellow box next to the red key
+put the yellow box next to the yellow ball
+put the yellow box next to the yellow door
+put the yellow box next to the yellow key
+put the yellow box on your left next to a red box
+put the yellow box on your left next to the red box
+put the yellow box on your right next to a green key
+put the yellow box on your right next to a grey door
+put the yellow box on your right next to a key
+put the yellow key in front of you next to a door
+put the yellow key in front of you next to a purple door
+put the yellow key in front of you next to the green door
+put the yellow key in front of you next to the grey ball
+put the yellow key next to a ball
+put the yellow key next to a blue ball
+put the yellow key next to a blue key
+put the yellow key next to a box
+put the yellow key next to a door
+put the yellow key next to a door behind you
+put the yellow key next to a green ball
+put the yellow key next to a green box
+put the yellow key next to a grey ball
+put the yellow key next to a grey box
+put the yellow key next to a grey door
+put the yellow key next to a grey key
+put the yellow key next to a purple ball
+put the yellow key next to a purple door
+put the yellow key next to a red box
+put the yellow key next to a red door
+put the yellow key next to a red key
+put the yellow key next to a yellow box
+put the yellow key next to a yellow door
+put the yellow key next to the ball behind you
+put the yellow key next to the blue ball
+put the yellow key next to the blue door
+put the yellow key next to the blue key
+put the yellow key next to the box in front of you
+put the yellow key next to the green ball
+put the yellow key next to the green door
+put the yellow key next to the green door on your right
+put the yellow key next to the green key
+put the yellow key next to the grey ball
+put the yellow key next to the grey box in front of you
+put the yellow key next to the grey door
+put the yellow key next to the grey door in front of you
+put the yellow key next to the grey door on your right
+put the yellow key next to the grey key
+put the yellow key next to the key on your right
+put the yellow key next to the purple ball
+put the yellow key next to the purple ball on your right
+put the yellow key next to the purple box
+put the yellow key next to the purple box on your left
+put the yellow key next to the purple door
+put the yellow key next to the purple door behind you
+put the yellow key next to the purple key
+put the yellow key next to the red ball
+put the yellow key next to the red box
+put the yellow key next to the red door
+put the yellow key next to the red key
+put the yellow key next to the yellow ball
+put the yellow key next to the yellow box
+put the yellow key next to the yellow box behind you
+put the yellow key next to the yellow door
+put the yellow key on your left next to the blue key
+put the yellow key on your left next to the green door
+put the yellow key on your right next to a red door
+put the yellow key on your right next to the grey key

@@ -1,6 +1,56 @@
 import numpy as np
 import gym
 
+from babyai.lsh import LSHBox
+
+def evaluate_fixed_seeds(agent, env, episodes, seeds, orig_missions, alt_missions=None, proj_mode=None, proj_sentences=None):
+    agent.model.eval()
+    print(proj_mode)
+    if proj_mode is not None:
+        lsh = LSHBox(proj_mode, proj_sentences)
+    logs = {"num_frames_per_episode": [], "return_per_episode": [], "observations_per_episode": []}
+    for i in range(len(seeds)):
+        seed = seeds[i]
+        env.seed(seed)
+        obs = env.reset()
+
+        print("---")
+        print(obs["mission"])
+        if obs["mission"] != orig_missions[i]:
+            print(f"WARNING: failed to reproduce original instruction for {seed}; skipping")
+            continue
+        if alt_missions is None:
+            mission = obs["mission"]
+        else:
+            mission = alt_missions[i]
+
+
+        print(mission)
+        if proj_mode is not None:
+            mission = lsh.query(mission)
+            print("->", mission)
+
+        obs["mission"] = mission
+        agent.on_reset()
+        done = False
+
+        num_frames = 0
+        returnn = 0
+        obss = []
+        while not done:
+            action = agent.act(obs)['action']
+            obss.append(obs)
+            obs, reward, done, _ = env.step(action)
+            obs["mission"] = mission
+            agent.analyze_feedback(reward, done)
+            num_frames += 1
+            returnn += reward
+        print("score", returnn)
+        logs["observations_per_episode"].append(obss)
+        logs["num_frames_per_episode"].append(num_frames)
+        logs["return_per_episode"].append(returnn)
+    return logs
+
 
 # Returns the performance of the agent on the environment for a particular number of episodes.
 def evaluate(agent, env, episodes, model_agent=True, offsets=None):

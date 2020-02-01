@@ -6,6 +6,7 @@ from torch.distributions.categorical import Categorical
 from torch.nn.utils.rnn import pack_padded_sequence, pad_packed_sequence
 import babyai.rl
 from babyai.rl.utils.supervised_losses import required_heads
+import logging
 
 from transformers import BertModel, BertTokenizer
 
@@ -262,6 +263,8 @@ class ACModel(nn.Module, babyai.rl.RecurrentACModel):
 
     def _get_instr_embedding(self, obs):
         instr = obs.instr
+        logger = logging.getLogger(__name__)
+        #logger.info("bert = %s", self.bert)
 
         if hasattr(self, 'bert') and self.bert:
             bert_emb = self.bert_model(obs.bert_instr)[0]

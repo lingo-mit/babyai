@@ -9,7 +9,7 @@ import gym
 
 
 parser = argparse.ArgumentParser("Show level instructions")
-parser.add_argument("--n-episodes", type=int, default=10000,
+parser.add_argument("--n-episodes", type=int, default=20000,
                     help="Collect instructions from this many episodes")
 parser.add_argument("level",
                     help="The level of interest")

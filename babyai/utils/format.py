@@ -59,6 +59,9 @@ class InstructionsPreprocessor(object):
             else:
                 raise FileNotFoundError('No pre-trained model under the specified name')
 
+        #self.frozen = "ft_" not in model_name and len(self.vocab.vocab) > 0
+        self.frozen = len(self.vocab.vocab) > 0
+
     def __call__(self, obss, device=None):
         raw_instrs = []
         raw_bert_instrs = []
@@ -66,6 +69,10 @@ class InstructionsPreprocessor(object):
 
         for obs in obss:
             tokens = re.findall("([a-z]+)", obs["mission"].lower())
+            if self.frozen:
+                tokens = [t for t in tokens if t in self.vocab.vocab]
+                if len(tokens) == 0:
+                    tokens = ["go"]
             instr = numpy.array([self.vocab[token] for token in tokens])
             bert_instr = self.bert_tokenizer.encode(obs["mission"], add_special_tokens=True)
             raw_instrs.append(instr)
