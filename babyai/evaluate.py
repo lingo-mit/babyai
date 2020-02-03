@@ -3,11 +3,30 @@ import gym
 
 from babyai.lsh import LSHBox
 
+from babyai import lsh2
+
+def make_lsh_struct(proj_mode):
+    lsh_box = lsh2.lsh.LSHBox(lsh2.templates.EVERYTHING + lsh2.templates.STARTERS, allow_none=True)
+    lsh_box_templates = lsh2.lsh.LSHBox(lsh2.templates.TEMPLATES.values(), allow_none=False)
+    return (lsh_box, lsh_box_templates)
+
+def lsh_query(lsh_struct, sentence):
+    all_trees = set()
+    subtrees = lsh2.blackbox_structured.get_subtrees(sentence)
+    for tree in subtrees:
+        all_trees.add(str(tree))
+    proj = lsh2.blackbox_structured.project_one(lsh_struct[0], lsh_struct[1], sentence, subtrees)
+    if len(proj) > 0:
+        return proj[0].strip()
+    else:
+        return sentence
+
 def evaluate_fixed_seeds(agent, env, episodes, seeds, orig_missions, alt_missions=None, proj_mode=None, proj_sentences=None):
     agent.model.eval()
     print(proj_mode)
     if proj_mode is not None:
-        lsh = LSHBox(proj_mode, proj_sentences)
+        #lsh = LSHBox(proj_mode, proj_sentences)
+        lsh_struct = make_lsh_struct(proj_mode)
     logs = {"num_frames_per_episode": [], "return_per_episode": [], "observations_per_episode": []}
     for i in range(len(seeds)):
         seed = seeds[i]
@@ -27,7 +46,8 @@ def evaluate_fixed_seeds(agent, env, episodes, seeds, orig_missions, alt_mission
 
         print(mission)
         if proj_mode is not None:
-            mission = lsh.query(mission)
+            #mission = lsh.query(mission)
+            mission = lsh_query(lsh_struct, mission)
             print("->", mission)
 
         obs["mission"] = mission

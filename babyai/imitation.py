@@ -345,13 +345,16 @@ class ImitationLearning(object):
         best_success_rate, patience, i = 0, 0, 0
         total_start_time = time.time()
 
+        print(status['i'])
         while status['i'] < getattr(self.args, 'epochs', int(1e9)):
             if 'patience' not in status:  # if for some reason you're finetuining with IL an RL pretrained agent
                 status['patience'] = 0
             # Do not learn if using a pre-trained model that already lost patience
             if status['patience'] > self.args.patience:
+                print("lost patience during pretraining; giving up")
                 break
             if status['num_frames'] > self.args.frames:
+                print("too many frames; giving up")
                 break
 
             status['i'] += 1
